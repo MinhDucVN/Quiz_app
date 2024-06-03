@@ -61,7 +61,11 @@ def main():
 
     if st.session_state.stage == 0:
         s1, s2 = st.columns((0.7,1))
-        s1.image("images\\ba-925x1299.png")
+        image_path = os.path.join('images', 'ba-925x1299.png')
+        if not os.path.isfile(image_path):
+            st.error(f"File không tồn tại: {image_path}")
+            return
+        st.image(image_path)
         s2.header(":red[**Chào mừng đến với \"Chinh phục Sử Địa 6\"**]", divider='rainbow')
         s2.markdown("*\"Chinh phục Sử Địa 6\"* – nơi bạn có thể thử sức với hàng loạt các bài trắc nghiệm"
                     " phong phú theo từng chương từ nội dung của sách \"Lịch sử và Địa lí 6 - Kết nối tri thức"
@@ -73,8 +77,22 @@ def main():
         st.header(":red[Lựa chọn môn học]")
         st.subheader("Hãy lựa chọn môn học mà bạn muốn kiểm tra kiến thức", divider='rainbow')
         s1, s2 = st.columns((1, 1))
-        s1.image("images\\l-1256x874.png", use_column_width="always")
-        s2.image("images\\ls-1256x707.jpg", use_column_width="always")
+        # Đảm bảo đường dẫn tới tệp ảnh chính xác
+        image1_path = os.path.join('images', 'l-1256x874.png')
+        image2_path = os.path.join('images', 'ls-1256x707.jpg')
+
+        # Kiểm tra sự tồn tại của tệp
+        if not os.path.isfile(image1_path):
+            st.error(f"File không tồn tại: {image1_path}")
+        else:
+            # Hiển thị hình ảnh nếu tệp tồn tại
+            s1.image(image1_path, use_column_width="always")
+
+        if not os.path.isfile(image2_path):
+            st.error(f"File không tồn tại: {image2_path}")
+        else:
+            # Hiển thị hình ảnh nếu tệp tồn tại
+            s2.image(image2_path, use_column_width="always")
         s1, s2 = st.columns((1, 1))
         s1.markdown("Kiểm tra và củng cố kiến thức về lịch sử qua 5 chương học khác nhau, từ lịch sử loài người "
                     "cho đến lịch sử Việt Nam.")
