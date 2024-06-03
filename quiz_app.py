@@ -64,9 +64,9 @@ def main():
         s1, s2 = st.columns((0.7,1))
         image_path = os.path.join('images', 'ba-925x1299.png')
         if not os.path.isfile(image_path):
-            st.error(f"File không tồn tại: {image_path}")
+            s1.error(f"File không tồn tại: {image_path}")
             return
-        st.image(image_path)
+        s1.image(image_path)
         s2.header(":red[**Chào mừng đến với \"Chinh phục Sử Địa 6\"**]", divider='rainbow')
         s2.markdown("*\"Chinh phục Sử Địa 6\"* – nơi bạn có thể thử sức với hàng loạt các bài trắc nghiệm"
                     " phong phú theo từng chương từ nội dung của sách \"Lịch sử và Địa lí 6 - Kết nối tri thức"
