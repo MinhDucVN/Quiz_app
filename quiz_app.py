@@ -76,6 +76,10 @@ def main():
         s1.image("images\\l-1256x874.png", use_column_width="always")
         s2.image("images\\ls-1256x707.jpg", use_column_width="always")
         s1, s2 = st.columns((1, 1))
+        s1.markdown("Kiểm tra và củng cố kiến thức về lịch sử qua 5 chương học khác nhau, từ lịch sử loài người "
+                    "cho đến lịch sử Việt Nam.")
+        s2.markdown("Thử thách kiến thức về địa lí của mình qua các câu hỏi đa dạng và hấp dẫn quay quanh địa lí"
+                    " của Trái Đất.")
         if s1.button(":rainbow[Lịch sử ^.^]"):
             set_questions_path(pathlib.Path(__file__).parent / "BoCauHoiLichSu.toml")
             set_state(2)
