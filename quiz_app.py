@@ -164,9 +164,6 @@ def main():
                 st.session_state.submitted = False
                 st.session_state.current_question = 0
                 st.experimental_rerun()
-if st.button('Trang chủ'):
-    set_state(0)
-    st.experimental_rerun()
 def get_topics(questions_path):
     topic_info = tomllib.loads(questions_path.read_text('utf-8'))
     topics = [topic["label"] for topic in topic_info.values()]
