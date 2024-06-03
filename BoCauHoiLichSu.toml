@@ -1,0 +1,1388 @@
+[Chapter1]
+label = "Lịch sử - Chương 1: Vì sao phải học Lịch sử?"
+
+    [[Chapter1.questions]]
+    question = "Khái niệm lịch sử là gì?"
+    answer = "Lịch sử là tất cả những gì đã xảy ra trong quá khứ và là một khoa học nghiên cứu và phục dựng lại quá khứ."
+    alternatives = [
+        "Lịch sử chỉ là những sự kiện quan trọng trong quá khứ.",
+        "Lịch sử là tất cả những gì sẽ xảy ra trong tương lai.",
+        "Lịch sử là những gì đang xảy ra trong hiện tại.",
+    ]
+
+    [[Chapter1.questions]]
+    question = "Vì sao cần học lịch sử?"
+    answer = "Học lịch sử giúp hiểu rõ về quá khứ của dân tộc, cội nguồn của chính bản thân."
+    alternatives = [
+        "Học lịch sử để dự đoán tương lai của nhân loại.",
+        "Học lịch sử để biết về những sự kiện lịch sử quan trọng.",
+        "Học lịch sử chỉ để tìm hiểu về quá khứ của dân tộc mình.",
+    ]
+
+    [[Chapter1.questions]]
+    question = "Ý nghĩa của việc biên soạn các tác phẩm lịch sử là gì?"
+    answer = "Biên soạn các tác phẩm lịch sử giúp ghi chép lại những sự kiện quan trọng trong quá khứ, tạo ra tư liệu quý giá để hiểu rõ hơn về lịch sử và học hỏi từ kinh nghiệm của quá khứ."
+    alternatives = [
+        "Biên soạn các tác phẩm lịch sử chỉ để tôn vinh lịch sử.",
+        "Biên soạn các tác phẩm lịch sử không có tác dụng gì đặc biệt.",
+        "Biên soạn các tác phẩm lịch sử chỉ để ghi nhận những sự kiện quan trọng.",
+    ]
+
+    [[Chapter1.questions]]
+    question = "Nêu ý nghĩa của hai câu thơ của Chủ tịch Hồ Chí Minh? 'Dân ta phải biết sử ta//Cho tường gốc tích nước nhà Việt Nam.'"
+    answer = "Hai câu thơ của Chủ tịch Hồ Chí Minh thể hiện ý nghĩa về việc học lịch sử để hiểu rõ về quá khứ của dân tộc, cội nguồn của Việt Nam."
+    alternatives = [
+        "Câu thơ của Chủ tịch Hồ Chí Minh không liên quan đến việc học lịch sử.",
+        "Hai câu thơ của Chủ tịch Hồ Chí Minh chỉ là diễn đạt cảm xúc cá nhân và không có ý nghĩa gì đặc biệt.",
+        "Hai câu thơ của Chủ tịch Hồ Chí Minh nhấn mạnh vào việc giữ gìn và phát huy truyền thống lịch sử, không nhấn mạnh vào ý nghĩa của việc học lịch sử.",
+    ]
+
+    [[Chapter1.questions]]
+    question = "Tại sao cần phải hiểu về quá khứ của dân tộc?"
+    answer = "Hiểu về quá khứ của dân tộc giúp chúng ta có cái nhìn tổng quan về diễn biến lịch sử, học hỏi và rút ra kinh nghiệm để xây dựng tương lai tốt đẹp hơn."
+    alternatives = [
+        "Hiểu về quá khứ của dân tộc chỉ để tôn vinh những anh hùng lịch sử.",
+        "Hiểu về quá khứ của dân tộc không có ý nghĩa gì đặc biệt.",
+        "Hiểu về quá khứ của dân tộc chỉ để tự hào về quá trình phát triển của dân tộc.",
+    ]
+
+    [[Chapter1.questions]]
+    question = "Việc nào dưới đây không phải là lý do cần học lịch sử?"
+    answer = "Học lịch sử để dự đoán tương lai của nhân loại."
+    alternatives = [
+        "Học lịch sử để hiểu về quá khứ của dân tộc.",
+        "Học lịch sử để học hỏi từ kinh nghiệm của quá khứ.",
+        "Học lịch sử để xây dựng cuộc sống hiện tại và tương lai tốt đẹp hơn.",
+    ]
+
+    [[Chapter1.questions]]
+    question = "Để hiểu rõ về quá khứ, chúng ta cần làm gì?"
+    answer = "Để hiểu rõ về quá khứ, chúng ta cần học lịch sử và nghiên cứu các tư liệu, tác phẩm lịch sử."
+    alternatives = [
+        "Để hiểu rõ về quá khứ, chúng ta chỉ cần nghe kể chuyện từ người già.",
+        "Để hiểu rõ về quá khứ, chúng ta không cần học lịch sử, chỉ cần tin vào những gì được kể lại.",
+        "Để hiểu rõ về quá khứ, chúng ta không cần nghiên cứu các tư liệu, chỉ cần nghe lời kể của người khác là đủ."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Tư liệu hiện vật là gì?"
+    answer = "Tư liệu hiện vật là những di tích, đồ vật,... của người xưa còn lưu giữ lại trong lòng đất hay trên mặt đất."
+    alternatives = [
+        "Tư liệu hiện vật là những bản ghi, tài liệu chép tay hay sách được in, khắc chữ.",
+        "Tư liệu hiện vật là những câu chuyện dân gian được kể truyền miệng từ đời này qua đời khác.",
+        "Tư liệu hiện vật là những tư liệu cung cấp những thông tin đầu tiên và trực tiếp về sự kiện hoặc thời kì lịch sử nào đó."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Tư liệu chữ viết là gì?"
+    answer = "Tư liệu chữ viết là những bản ghi, tài liệu chép tay hay sách được in, khắc chữ."
+    alternatives = [
+        "Tư liệu chữ viết là những di tích, đồ vật,... của người xưa còn lưu giữ lại trong lòng đất hay trên mặt đất.",
+        "Tư liệu chữ viết là những câu chuyện dân gian được kể truyền miệng từ đời này qua đời khác.",
+        "Tư liệu chữ viết là những tư liệu cung cấp những thông tin đầu tiên và trực tiếp về sự kiện hoặc thời kì lịch sử nào đó."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Tư liệu truyền miệng là gì?"
+    answer = "Tư liệu truyền miệng là những câu chuyện dân gian (thần thoại, truyền thuyết, cổ tích,...) được kể truyền miệng từ đời này qua đời khác."
+    alternatives = [
+        "Tư liệu truyền miệng là những di tích, đồ vật,... của người xưa còn lưu giữ lại trong lòng đất hay trên mặt đất.",
+        "Tư liệu truyền miệng là những bản ghi, tài liệu chép tay hay sách được in, khắc chữ.",
+        "Tư liệu truyền miệng là những tư liệu cung cấp những thông tin đầu tiên và trực tiếp về sự kiện hoặc thời kì lịch sử nào đó."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Tư liệu gốc là gì?"
+    answer = "Tư liệu gốc là tư liệu cung cấp những thông tin đầu tiên và trực tiếp về sự kiện hoặc thời kì lịch sử nào đó."
+    alternatives = [
+        "Tư liệu gốc là những di tích, đồ vật,... của người xưa còn lưu giữ lại trong lòng đất hay trên mặt đất.",
+        "Tư liệu gốc là những bản ghi, tài liệu chép tay hay sách được in, khắc chữ.",
+        "Tư liệu gốc là những câu chuyện dân gian được kể truyền miệng từ đời này qua đời khác."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Trong bài, người ta nhấn mạnh điều gì khi nói về việc dựa vào các nguồn tư liệu?"
+    answer = "Trong bài, người ta nhấn mạnh rằng việc dựa vào các nguồn tư liệu giúp làm sáng tỏ một phần lịch sử, nhưng mỗi nhà sử học thường chỉ có thể làm sáng tỏ được một phần theo quan điểm của mình."
+    alternatives = [
+        "Trong bài, người ta nhấn mạnh về việc tìm kiếm các nguồn tư liệu.",
+        "Trong bài, người ta nhấn mạnh về việc giải thích sự việc đã xảy ra dựa trên những chứng cứ khoa học có được.",
+        "Trong bài, người ta nhấn mạnh về việc sử dụng nguồn tư liệu gốc."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Điều gì làm cho việc hiểu rõ về quá khứ trở nên khó khăn?"
+    answer = "Việc hiểu rõ về quá khứ trở nên khó khăn do mỗi nhà sử học thường chỉ có thể làm sáng tỏ được một phần lịch sử theo quan điểm của mình."
+    alternatives = [
+        "Việc hiểu rõ về quá khứ trở nên khó khăn do nguồn tư liệu quá ít.",
+        "Việc hiểu rõ về quá khứ trở nên khó khăn do thông tin không chính xác.",
+        "Việc hiểu rõ về quá khứ trở nên khó khăn do người ta không quan tâm đến lịch sử."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Vì sao phải xác định thời gian trong lịch sử?"
+    answer = "Để hiểu và dựng lại lịch sử."
+    alternatives = [
+        "Để biết được mọi sự kiện lịch sử.",
+        "Để biết được nguyên nhân và hậu quả của các sự kiện lịch sử.",
+        "Để tạo ra những mốc thời gian quan trọng trong lịch sử."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Âm lịch là gì?"
+    answer = "Âm lịch là hệ lịch được tính theo chu ki chuyển động của Mặt Trăng quanh Trái Đất."
+    alternatives = [
+        "Âm lịch là hệ lịch được tính theo chu kì chuyển động của Trái Đất quanh Mặt Trời.",
+        "Âm lịch là hệ lịch được tính theo chu ki chuyển động của Sao Kim quanh Mặt Trời.",
+        "Âm lịch là hệ lịch được tính theo chu kì chuyển động của Sao Hỏa quanh Mặt Trời."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Dương lịch là gì?"
+    answer = "Dương lịch là hệ lịch được tính theo chu kì chuyển động của Trái Đất quanh Mặt Trời."
+    alternatives = [
+        "Dương lịch là hệ lịch được tính theo chu ki chuyển động của Mặt Trăng quanh Trái Đất.",
+        "Dương lịch là hệ lịch được tính theo chu kì chuyển động của Sao Kim quanh Mặt Trời.",
+        "Dương lịch là hệ lịch được tính theo chu kì chuyển động của Sao Hỏa quanh Mặt Trời."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Công lịch là gì?"
+    answer = "Công lịch là hệ lịch được tính theo chu kì chuyển động của Trái Đất quanh Mặt Trời, lấy năm ra đời của Chúa Giê-su làm năm đầu tiên của Công nguyên."
+    alternatives = [
+        "Công lịch là hệ lịch được tính theo chu ki chuyển động của Mặt Trăng quanh Trái Đất, lấy năm ra đời của Chúa Giê-su làm năm đầu tiên của Công nguyên.",
+        "Công lịch là hệ lịch được tính theo chu kì chuyển động của Sao Kim quanh Mặt Trời, lấy năm ra đời của Chúa Giê-su làm năm đầu tiên của Công nguyên.",
+        "Công lịch là hệ lịch được tính theo chu kì chuyển động của Sao Hỏa quanh Mặt Trời, lấy năm ra đời của Chúa Giê-su làm năm đầu tiên của Công nguyên."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Thế kỉ là đơn vị tính thời gian dài bao nhiêu năm?"
+    answer = "Thế kỉ là đơn vị tính thời gian dài 100 năm."
+    alternatives = [
+        "Thế kỉ là đơn vị tính thời gian dài 10 năm.",
+        "Thế kỉ là đơn vị tính thời gian dài 1000 năm.",
+        "Thế kỉ là đơn vị tính thời gian dài 365 ngày."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Nêu một ví dụ về cách phân chia thời gian trong lịch sử?"
+    answer = "Cách phân chia thời gian trong lịch sử có thể là việc chia thời gian thành thập kỉ (10 năm), thế kỉ (100 năm) và thiên niên kỉ (1000 năm)."
+    alternatives = [
+        "Cách phân chia thời gian trong lịch sử có thể là việc chia thời gian thành 12 tháng.",
+        "Cách phân chia thời gian trong lịch sử có thể là việc chia thời gian thành 24 giờ.",
+        "Cách phân chia thời gian trong lịch sử có thể là việc chia thời gian thành 365 ngày."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Cách tính thời gian trong lịch sử của người Ai Cập cổ đại là gì?"
+    answer = "Người Ai Cập cổ đại tính thời gian theo âm lịch, là hệ lịch được tính theo chu ki chuyển động của Mặt Trăng quanh Trái Đất."
+    alternatives = [
+        "Người Ai Cập cổ đại tính thời gian theo dương lịch, là hệ lịch được tính theo chu kì chuyển động của Trái Đất quanh Mặt Trời.",
+        "Người Ai Cập cổ đại tính thời gian theo dương lịch, là hệ lịch được tính theo chu ki chuyển động của Sao Kim quanh Mặt Trời.",
+        "Người Ai Cập cổ đại tính thời gian theo dương lịch, là hệ lịch được tính theo chu ki chuyển động của Sao Hỏa quanh Mặt Trời."
+    ]
+
+[Chapter2]
+label = "Lịch sử - Chương 2: Nguồn gốc loài người"
+
+    [[Chapter2.questions]]
+    question = "Quá trình tiến hoá từ Vượn người thành người đã diễn ra cách đây bao nhiêu triệu năm?"
+    answer = "Quá trình tiến hoá từ Vượn người thành người đã diễn ra cách đây khoảng 5 - 6 triệu năm."
+    alternatives = [
+        "Quá trình tiến hoá từ Vượn người thành người đã diễn ra cách đây khoảng 1 - 2 triệu năm.",
+        "Quá trình tiến hoá từ Vượn người thành người đã diễn ra cách đây khoảng 10 - 20 triệu năm.",
+        "Quá trình tiến hoá từ Vượn người thành người đã diễn ra cách đây khoảng 100 - 200 triệu năm."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Ở đâu có dấu tích cổ xưa nhất của Người tối cổ ở Đông Nam Á?"
+    answer = "Dấu tích cổ xưa nhất của Người tối cổ ở Đông Nam Á là hoá thạch phát ở In-đô-nê-xi-a."
+    alternatives = [
+        "Dấu tích cổ xưa nhất của Người tối cổ ở Đông Nam Á là hoá thạch phát hiện ở Thái Lan.",
+        "Dấu tích cổ xưa nhất của Người tối cổ ở Đông Nam Á là hoá thạch phát hiện ở Phi-líp-pin.",
+        "Dấu tích cổ xưa nhất của Người tối cổ ở Đông Nam Á là hoá thạch phát hiện ở Ma-lai-xi-a."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Ở Việt Nam, dấu tích của Người tối cổ đã được phát hiện ở đâu?"
+    answer = "Ở Việt Nam, dấu tích của Người tối cổ đã được phát hiện ở Thanh Hoá."
+    alternatives = [
+        "Ở Việt Nam, dấu tích của Người tối cổ đã được phát hiện ở Hà Nội.",
+        "Ở Việt Nam, dấu tích của Người tối cổ đã được phát hiện ở Sài Gòn.",
+        "Ở Việt Nam, dấu tích của Người tối cổ đã được phát hiện ở Đà Nẵng."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Tại di chỉ An Khê, người ta đã phát hiện được bao nhiêu hiện vật đá?"
+    answer = "Tại di chỉ An Khê, người ta đã phát hiện được trên 3.000 hiện vật đá."
+    alternatives = [
+        "Tại di chỉ An Khê, người ta đã phát hiện được trên 1.000 hiện vật đá.",
+        "Tại di chỉ An Khê, người ta đã phát hiện được trên 5.000 hiện vật đá.",
+        "Tại di chỉ An Khê, người ta đã phát hiện được trên 10.000 hiện vật đá."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Quá trình tiến hoá từ Vượn người thành người diễn ra như thế nào?"
+    answer = "Quá trình tiến hoá từ Vượn người thành người diễn ra qua hàng triệu năm, trong đó loài Vượn người đã phát triển lên thành Người tối cổ, sau đó biến đổi thành Người tinh khôn."
+    alternatives = [
+        "Quá trình tiến hoá từ Vượn người thành người diễn ra qua hàng trăm năm, trong đó loài Vượn người đã biến đổi trở thành Người tinh khôn.",
+        "Quá trình tiến hoá từ Vượn người thành người diễn ra qua hàng ngàn năm, trong đó loài Vượn người đã biến đổi thành Người tinh khôn.",
+        "Quá trình tiến hoá từ Vượn người thành người diễn ra qua hàng chục triệu năm, trong đó loài Vượn người đã biến đổi trở thành Người tối cổ."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Vì sao Đông Nam Á được coi là một trong những 'cái nôi' của loài người?"
+    answer = "Đông Nam Á được coi là một trong những 'cái nôi' của loài người vì ở đây đã tìm thấy nhiều dấu tích của quá trình tiến hoá từ Vượn người thành người."
+    alternatives = [
+        "Đông Nam Á được coi là một trong những 'cái nôi' của loài người vì nơi đây là nguồn gốc của loài người.",
+        "Đông Nam Á được coi là một trong những 'cái nôi' của loài người vì ở đây có nhiều loài vượn người.",
+        "Đông Nam Á được coi là một trong những 'cái nôi' của loài người vì ở đây có nhiều dấu tích của người tinh khôn."]
+
+    [[Chapter2.questions]]
+    question = "Người tối cổ có những đặc điểm nào khác biệt so với loài Vượn người?"
+    answer = "Người tối cổ có những đặc điểm như thường xuyên đi đứng bằng hai chân, thể tích sọ não lớn hơn, đã hình thành trung tâm phát tiếng nói trong não, và có khả năng cầm nắm đồ vật."
+    alternatives = [
+        "Người tối cổ có những đặc điểm như sống trên cây và không cầm nắm đồ vật.",
+        "Người tối cổ có những đặc điểm như thường xuyên đi bằng bốn chân và thể tích sọ não nhỏ hơn.",
+        "Người tối cổ có những đặc điểm như không có khả năng phát tiếng nói và không có khả năng cầm nắm đồ vật."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Tại sao dấu tích của Người tối cổ có thể được tìm thấy ở Đông Nam Á và Việt Nam?"
+    answer = "Dấu tích của Người tối cổ được tìm thấy ở Đông Nam Á và Việt Nam vì khu vực này là nơi diễn ra quá trình tiến hoá từ Vượn người thành người từ rất sớm."
+    alternatives = [
+        "Dấu tích của Người tối cổ được tìm thấy ở Đông Nam Á và Việt Nam vì khu vực này là nơi sinh sống của loài Vượn người.",
+        "Dấu tích của Người tối cổ được tìm thấy ở Đông Nam Á và Việt Nam vì khu vực này là nơi có nhiều loài động vật khác nhau.",
+        "Dấu tích của Người tối cổ được tìm thấy ở Đông Nam Á và Việt Nam vì khu vực này là nơi có khí hậu thuận lợi cho sự sinh sống của loài người."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Giai đoạn nào được coi là bầy người nguyên thuỷ?"
+    answer = "Giai đoạn đầu tiên trong quá trình phát triển của xã hội nguyên thuỷ."
+    alternatives = ["Giai đoạn bắt đầu từ khi người nguyên thuỷ biết trồng trọt và chăn nuôi.",
+        "Giai đoạn bắt đầu từ khi người nguyên thuỷ biết làm gốm và vẽ tranh trên vách đá.",
+        "Giai đoạn bắt đầu từ khi người nguyên thuỷ biết làm đồ trang sức và làm tượng bằng đá."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Giai đoạn nào được gọi là công xã thị tộc?"
+    answer = "Giai đoạn sau của xã hội nguyên thuỷ, khi người nguyên thuỷ đã biết trồng trọt, chăn nuôi, dệt vải, làm gốm và có tục chôn người chết."
+    alternatives = [
+        "Giai đoạn bắt đầu từ khi người nguyên thuỷ biết làm đồ trang sức và vẽ tranh trên vách đá.",
+        "Giai đoạn bắt đầu từ khi người nguyên thuỷ biết làm tượng bằng đá hoặc đất nung.",
+        "Giai đoạn bắt đầu từ khi người nguyên thuỷ biết mài đá và tạo ra nhiều loại công cụ khác nhau."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Cách tổ chức xã hội của người nguyên thuỷ như thế nào?"
+    answer = "Người nguyên thuỷ tổ chức xã hội bằng cách sống thành bầy, có người đứng đầu, có sự phân công lao động và cùng chăm sóc con cái."
+    alternatives = [
+        "Người nguyên thuỷ tổ chức xã hội bằng cách sống đơn độc và không có sự phân công lao động.",
+        "Người nguyên thuỷ tổ chức xã hội bằng cách sống riêng lẻ mỗi gia đình không liên kết với nhau.",
+        "Người nguyên thuỷ tổ chức xã hội bằng cách sống thành bộ lạc và không có người đứng đầu."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Người nguyên thuỷ sống chủ yếu trong những nơi nào ở Việt Nam?"
+    answer = "Người nguyên thuỷ sống chủ yếu trong các hang động, mái đá hoặc các túp lều lợp bằng cỏ khô hay lá cây ở Việt Nam."
+    alternatives = [
+        "Người nguyên thuỷ sống chủ yếu trong những căn nhà lớn và sang trọng ở Việt Nam.",
+        "Người nguyên thuỷ sống chủ yếu trong các tòa nhà cao tầng ở Việt Nam.",
+        "Người nguyên thuỷ sống chủ yếu trong những ngôi nhà lợp lá ở Việt Nam."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Nêu ý nghĩa của việc biết về các giai đoạn phát triển của xã hội nguyên thuỷ?"
+    answer = "Việc biết về các giai đoạn phát triển của xã hội nguyên thuỷ giúp hiểu rõ hơn về sự tiến triển của loài người."
+    alternatives = [
+        "Việc biết về các giai đoạn phát triển của xã hội nguyên thuỷ không có ý nghĩa gì đặc biệt.",
+        "Việc biết về các giai đoạn phát triển của xã hội nguyên thuỷ chỉ giúp giải trí và thú vị.",
+        "Việc biết về các giai đoạn phát triển của xã hội nguyên thuỷ giúp hiểu về lịch sử tự nhiên của Trái Đất."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Tại sao lao động đóng vai trò quan trọng trong quá trình phát triển của người nguyên thuỷ?"
+    answer = "Lao động đóng vai trò quan trọng trong quá trình cải biến môi trường sống, và tạo ra các công cụ, kỹ thuật mới để phục vụ cho đời sống hàng ngày."
+    alternatives = [
+        "Lao động không đóng vai trò quan trọng trong quá trình phát triển của người nguyên thuỷ.",
+        "Lao động chỉ đóng vai trò quan trọng trong việc sản xuất thức ăn cho người nguyên thuỷ.",
+        "Lao động đóng vai trò quan trọng trong việc duy trì trật tự xã hội của người nguyên thuỷ."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Tại sao việc biết về đời sống của người nguyên thuỷ trên đất nước Việt Nam có ý nghĩa?"
+    answer = "Việc biết về đời sống của người nguyên thuỷ trên đất nước Việt Nam giúp hiểu rõ hơn về lịch sử và văn hóa của dân tộc Việt Nam."
+    alternatives = [
+        "Việc biết về đời sống của người nguyên thuỷ trên đất nước Việt Nam không có ý nghĩa gì đặc biệt.",
+        "Việc biết về đời sống của người nguyên thuỷ trên đất nước Việt Nam chỉ giúp thỏa mãn sự hiếu kỳ của con người.",
+        "Việc biết về đời sống của người nguyên thuỷ trên đất nước Việt Nam chỉ giúp làm phong phú thêm kiến thức về lịch sử."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Nêu đặc điểm chung của xã hội nguyên thuỷ ở giai đoạn bầy người nguyên thuỷ và công xã thị tộc."
+    answer = "Đặc điểm chung của xã hội nguyên thuỷ ở cả hai giai đoạn là tổ chức sống thành bầy, có sự phân công lao động và cùng chăm sóc con cái."
+    alternatives = [
+        "Đặc điểm chung của xã hội nguyên thuỷ ở cả hai giai đoạn là tổ chức sống thành thị tộc, không có sự phân công lao động và không chăm sóc con cái.",
+        "Đặc điểm chung của xã hội nguyên thuỷ ở cả hai giai đoạn là tổ chức sống thành bộ lạc, không có người đứng đầu và không có phân công lao động.",
+        "Đặc điểm chung của xã hội nguyên thuỷ ở cả hai giai đoạn là tổ chức sống thành gia đình nhỏ và không có sự phân công lao động."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Tại sao việc biết về quá trình tiến hoá từ Vượn người thành người có ý nghĩa?"
+    answer = "Việc biết về quá trình tiến hoá từ Vượn người thành người giúp hiểu rõ hơn về nguồn gốc và tiến hóa của loài người."
+    alternatives = [
+        "Việc biết về quá trình tiến hoá từ Vượn người thành người chỉ là một phần của sự tò mò về thế giới tự nhiên.",
+        "Việc biết về quá trình tiến hoá từ Vượn người thành người không có ý nghĩa gì quan trọng.",
+        "Việc biết về quá trình tiến hoá từ Vượn người thành người chỉ là kiến thức không cần thiết cho cuộc sống hàng ngày."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Vì sao việc phát hiện ra kim loại đối với xã hội nguyên thuỷ có vai trò quan trọng?"
+    answer = "Việc phát hiện ra kim loại đối với xã hội nguyên thuỷ đã mang lại các công cụ và vũ khí mới, giúp nâng cao năng suất lao động."
+    alternatives = [
+        "Việc phát hiện ra kim loại không có tác động đáng kể đối với xã hội nguyên thuỷ.",
+        "Việc phát hiện ra kim loại chỉ mang lại những lợi ích nhỏ nhặt cho xã hội nguyên thuỷ.",
+        "Việc phát hiện ra kim loại đối với xã hội nguyên thuỷ chỉ tạo ra những vấn đề mới và không mang lại lợi ích gì đặc biệt."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Tại sao xã hội nguyên thuỷ tan rã sau khi phát hiện ra kim loại?"
+    answer = "Xã hội nguyên thuỷ tan rã sau khi phát hiện ra kim loại vì sự phát triển kinh tế dẫn đến sự phân hoá xã hội."
+    alternatives = [
+        "Xã hội nguyên thuỷ tan rã sau khi phát hiện ra kim loại vì sự tiến hoá của con người.",
+        "Xã hội nguyên thuỷ tan rã sau khi phát hiện ra kim loại vì sự gián đoạn trong việc sản xuất thức ăn.",
+        "Xã hội nguyên thuỷ tan rã sau khi phát hiện ra kim loại vì sự suy thoái của nền văn hóa."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Tại sao sự phân hoá của xã hội nguyên thuỷ ở phương Đông không triệt để?"
+    answer = "Sự phân hoá của xã hội nguyên thuỷ ở phương Đông không triệt để vì môi trường sống và các yếu tố văn hóa địa phương."
+    alternatives = [
+        "Sự phân hoá của xã hội nguyên thuỷ ở phương Đông không triệt để vì thiếu sự phát triển kinh tế.",
+        "Sự phân hoá của xã hội nguyên thuỷ ở phương Đông không triệt để vì thiếu sự phân công lao động.",
+        "Sự phân hoá của xã hội nguyên thuỷ ở phương Đông không triệt để vì thiếu sự đầu tư vào giáo dục."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Nêu một số nét cơ bản của xã hội nguyên thuỷ ở Việt Nam dựa trên các nền văn hoá khảo cổ Phùng Nguyên – Đồng Đậu – Gò Mun."
+    answer = "Một số nét cơ bản của xã hội nguyên thuỷ ở Việt Nam dựa trên các nền văn hoá khảo cổ Phùng Nguyên – Đồng Đậu – Gò Mun bao gồm việc sử dụng công cụ và vũ khí làm từ kim loại như đồ đồng."
+    alternatives = [
+        "Xã hội nguyên thuỷ ở Việt Nam không có những nét cơ bản đặc trưng nào đáng chú ý.",
+        "Một số nét cơ bản của xã hội nguyên thuỷ ở Việt Nam dựa trên các nền văn hoá khảo cổ Phùng Nguyên – Đồng Đậu – Gò Mun bao gồm việc sử dụng công cụ và vũ khí làm từ đá.",
+        "Một số nét cơ bản của xã hội nguyên thuỷ ở Việt Nam dựa trên các nền văn hoá khảo cổ Phùng Nguyên – Đồng Đậu – Gò Mun bao gồm việc sử dụng công cụ và vũ khí làm từ kim loại như sắt và đồng."
+    ]
+
+    [[Chapter2.questions]]
+    question = "Kim loại được phát hiện vào khoảng thời gian nào?"
+    answer = "Kim loại được phát hiện vào khoảng thiên niên kỉ IV TCN."
+    alternatives = [
+        "Kim loại được phát hiện vào khoảng thiên niên kỉ II TCN.",
+        "Kim loại được phát hiện vào khoảng năm 1000 TCN.",
+        "Kim loại được phát hiện vào khoảng năm 2000 TCN.",
+    ]
+
+    [[Chapter2.questions]]
+    question = "Đâu là loại kim loại được sử dụng rộng rãi sau khi được phát hiện?"
+    answer = "Sắt là loại kim loại được sử dụng rộng rãi sau khi được phát hiện."
+    alternatives = [
+        "Đồng là loại kim loại được sử dụng rộng rãi sau khi được phát hiện.",
+        "Thủy ngân là loại kim loại được sử dụng rộng rãi sau khi được phát hiện.",
+        "Chì là loại kim loại được sử dụng rộng rãi sau khi được phát hiện.",
+    ]
+
+    [[Chapter2.questions]]
+    question = "Cách nào sau đây không phải là cách mà người nguyên thuỷ đã sử dụng để tìm thấy đồng?"
+    answer = "Tìm thấy từ các công trình kiến trúc cổ đại."
+    alternatives = [
+        "Tìm thấy từ các đám cháy.",
+        "Tìm thấy từ mỏ đồng.",
+        "Tìm thấy từ các hố mộ cổ.",
+    ]
+
+    [[Chapter2.questions]]
+    question = "Trong thị tộc, vai trò của đàn ông trong xã hội nguyên thuỷ là gì?"
+    answer = "Trong thị tộc, đàn ông có vai trò ngày càng lớn và trở thành chủ gia đình."
+    alternatives = [
+        "Đàn ông không có vai trò quan trọng trong xã hội nguyên thuỷ.",
+        "Đàn ông chỉ tham gia vào các hoạt động săn bắn.",
+        "Đàn ông chỉ chịu trách nhiệm về việc trông nom con cái.",
+    ]
+
+    [[Chapter2.questions]]
+    question = "Xã hội nguyên thuỷ dần tan rã do nguyên nhân gì?"
+    answer = "Xã hội nguyên thuỷ dần tan rã do sự xuất hiện ngày càng nhiều của cải dư thừa và sự phân hoá giai cấp."
+    alternatives = [
+        "Xã hội nguyên thuỷ dần tan rã do sự thiếu hụt nguồn lực tự nhiên.",
+        "Xã hội nguyên thuỷ dần tan rã do sự gia tăng dân số.",
+        "Xã hội nguyên thuỷ dần tan rã do sự mất mát văn hóa.",]
+
+    [[Chapter2.questions]]
+    question = "Việc sử dụng các công cụ bằng kim loại đã góp phần vào việc gì của người nguyên thuỷ?"
+    answer = "Việc sử dụng các công cụ bằng kim loại đã góp phần vào việc mở rộng địa bàn cư trú và phát triển kinh tế."
+    alternatives = [
+        "Việc sử dụng các công cụ bằng kim loại đã góp phần vào việc phát triển nghệ thuật.",
+        "Việc sử dụng các công cụ bằng kim loại đã góp phần vào việc duy trì truyền thống văn hóa.",
+        "Việc sử dụng các công cụ bằng kim loại đã góp phần vào việc giảm bớt xung đột trong xã hội.",
+    ]
+
+    [[Chapter2.questions]]
+    question = "Sự phân hoá trong xã hội nguyên thuỷ được thể hiện như thế nào?"
+    answer = "Sự phân hoá trong xã hội nguyên thuỷ được thể hiện thông qua sự xuất hiện ngày càng nhiều của cải dư thừa và sự phân biệt giai cấp."
+    alternatives = [
+        "Sự phân hoá trong xã hội nguyên thuỷ được thể hiện thông qua việc phân chia đất đai.",
+        "Sự phân hoá trong xã hội nguyên thuỷ được thể hiện thông qua việc phân chia quyền lực.",
+        "Sự phân hoá trong xã hội nguyên thuỷ được thể hiện thông qua việc phân chia nghề nghiệp.",
+    ]
+
+[Chapter3]
+label = "Lịch sử - Chương 3: Xã hội cổ đại"
+
+    [[Chapter3.questions]]
+    question = "Ai Cập nằm ở vùng nào của châu Phi?"
+    answer = "Ai Cập nằm ở vùng Đông Bắc của châu Phi."
+    alternatives = [
+        "Ai Cập nằm ở vùng Tây Bắc của châu Phi.",
+        "Ai Cập nằm ở vùng Nam Bắc của châu Phi.",
+        "Ai Cập nằm ở vùng Đông Nam của châu Phi.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Tại sao người Ai Cập và Lưỡng Hà gọi các dòng sông là 'tặng phẩm'?"
+    answer = "Người Ai Cập và Lưỡng Hà gọi các dòng sông là 'tặng phẩm' vì những dòng sông này mang lại phù sa màu mỡ cho đất đai."
+    alternatives = [
+        "Người Ai Cập và Lưỡng Hà gọi các dòng sông là 'tặng phẩm' vì chúng là nguồn nước lớn nhất của đất nước.",
+        "Người Ai Cập và Lưỡng Hà gọi các dòng sông là 'tặng phẩm' vì chúng tạo điều kiện cho việc duy trì đời sống thủy sản phong phú.",
+        "Người Ai Cập và Lưỡng Hà gọi các dòng sông là 'tặng phẩm' vì chúng là nguồn nước sạch cung cấp cho cuộc sống hàng ngày của dân cư.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Ai là người đã thống nhất các công xã thành Nhà nước Ai Cập?"
+    answer = "Mê-nét là người đã thống nhất các công xã thành Nhà nước Ai Cập."
+    alternatives = [
+        "Ra-mê-sê là người đã thống nhất các công xã thành Nhà nước Ai Cập.",
+        "Thô-thăm là người đã thống nhất các công xã thành Nhà nước Ai Cập.",
+        "Khufu là người đã thống nhất các công xã thành Nhà nước Ai Cập.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Ai là người đứng đầu nhà nước ở Lưỡng Hà?"
+    answer = "Ở Lưỡng Hà, người đứng đầu nhà nước được gọi là en-xi."
+    alternatives = [
+        "Ở Lưỡng Hà, người đứng đầu nhà nước được gọi là pha-ra-ông.",
+        "Ở Lưỡng Hà, người đứng đầu nhà nước được gọi là hoàng đế.",
+        "Ở Lưỡng Hà, người đứng đầu nhà nước được gọi là quốc vương.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Những loại chữ cổ nhất thế giới là gì?"
+    answer = "Những loại chữ cổ nhất thế giới là chữ tượng hình ở Ai Cập và chữ hình nêm ở Lưỡng Hà."
+    alternatives = [
+        "Những loại chữ cổ nhất thế giới là chữ La Mã.",
+        "Những loại chữ cổ nhất thế giới là chữ Phoenicia.",
+        "Những loại chữ cổ nhất thế giới là chữ Hy Lạp.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Công trình kiến trúc nổi tiếng nào ở Ai Cập được xây dựng bằng cách chồng đá lên nhau mà không dùng vật liệu kết dính?"
+    answer = "Kim tự tháp Kê-ôp."
+    alternatives = [
+        "Kim tự tháp Saqqara.",
+        "Kim tự tháp Abu Simbel.",
+        "Kim tự tháp Menkaure.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Kim tự tháp Kê-ôp ở Ai Cập có chiều cao là bao nhiêu?"
+    answer = "Kim tự tháp Kê-ôp ở Ai Cập có chiều cao là 147m."
+    alternatives = [
+        "Kim tự tháp Kê-ôp ở Ai Cập có chiều cao là 100m.",
+        "Kim tự tháp Kê-ôp ở Ai Cập có chiều cao là 200m.",
+        "Kim tự tháp Kê-ôp ở Ai Cập có chiều cao là 50m.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Những loại chữ cổ nhất thế giới là gì?"
+    answer = "Những loại chữ cổ nhất thế giới là chữ tượng hình ở Ai Cập và chữ hình nêm ở Lưỡng Hà."
+    alternatives = [
+        "Những loại chữ cổ nhất thế giới là chữ La Mã.",
+        "Những loại chữ cổ nhất thế giới là chữ Phoenicia.",
+        "Những loại chữ cổ nhất thế giới là chữ Hy Lạp.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Đặc điểm nào của địa hình Ấn Độ ảnh hưởng đến sự hình thành của nền văn minh?"
+    answer = "Ấn Độ có đồng bằng sông Ấn và sông Hằng rộng lớn."
+    alternatives = [
+        "Ấn Độ có nhiều cao nguyên Đê-can với rừng rậm và núi đá hiểm trở.",
+        "Ấn Độ có nhiều sa mạc và địa hình khô cằn.",
+        "Ấn Độ có nhiều dãy núi cao gồm dãy Hi-ma-lay-a và Trường Sơn.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Vương quốc nào được thành lập vào năm 600 TCN ở Ấn Độ cổ đại?"
+    answer = "Vương quốc Ma-ga-đa."
+    alternatives = [
+        "Vương quốc Mô-ri-a.",
+        "Vương quốc Vân Lang.",
+        "Vương quốc Chiêm Thành.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Chế độ xã hội ở Ấn Độ cổ đại được chia thành bao nhiêu đẳng cấp? Đặc điểm chính của mỗi đẳng cấp là gì?"
+    answer = "Chế độ xã hội ở Ấn Độ cổ đại được chia thành bốn đẳng cấp. Đặc điểm chính của mỗi đẳng cấp là: Bra-man Tăng lữ (Quý tộc), Ksa-tri-a (Vương công), Vai-si-a (Người bình dân), Su-dra (Những người có địa vị thấp kém)."
+    alternatives = [
+        "Chế độ xã hội ở Ấn Độ cổ đại được chia thành ba đẳng cấp: Quý tộc, Nông dân, Thương nhân.",
+        "Chế độ xã hội ở Ấn Độ cổ đại được chia thành năm đẳng cấp: Hoàng gia, Quý tộc, Quan lại, Nông dân, Tôi tục.",
+        "Chế độ xã hội ở Ấn Độ cổ đại không có sự phân biệt đẳng cấp."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Thành tựu văn hóa tiêu biểu nào của Ấn Độ thời cổ đại có ảnh hưởng lớn tới văn học ở Đông Nam Á?"
+    answer = "Hai tác phẩm văn học Ma-ha-bha-ra-ta và Ra-ma-y-a-na."
+    alternatives = [
+        "Tác phẩm văn học được viết trên các con dấu ở lưu vực sông Ấn.",
+        "Tác phẩm văn học về tôn giáo Hin-đu.",
+        "Tác phẩm văn học về đạo Phật."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Chữ viết cổ nhất của người Ấn Độ được phát hiện ở đâu?"
+    answer = "Chữ viết cổ nhất của người Ấn Độ được phát hiện ở lưu vực sông Ấn."
+    alternatives = [
+        "Chữ viết cổ nhất của người Ấn Độ được phát hiện ở đồng bằng sông Hằng.",
+        "Chữ viết cổ nhất của người Ấn Độ được phát hiện ở dãy núi Hi-ma-lay-a.",
+        "Chữ viết cổ nhất của người Ấn Độ được phát hiện ở sa mạc Thar."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Người Ấn Độ cổ đại đã tạo ra bao nhiêu chữ số, trong đó có chữ số 0?"
+    answer = "Người Ấn Độ cổ đại đã tạo ra 10 chữ số, trong đó có chữ số 0."
+    alternatives = [
+        "Người Ấn Độ cổ đại đã tạo ra 5 chữ số, trong đó không có chữ số 0.",
+        "Người Ấn Độ cổ đại đã tạo ra 20 chữ số, trong đó có chữ số 0.",
+        "Người Ấn Độ cổ đại đã tạo ra 10 chữ số, nhưng không có chữ số 0."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Tôn giáo nào được xem là ra đời sớm nhất ở Ấn Độ cổ đại?"
+    answer = "Tôn giáo Bà La Môn."
+    alternatives = [
+        "Tôn giáo Hin-đu.",
+        "Tôn giáo Phật giáo.",
+        "Tôn giáo Hồi giáo."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Đặc điểm nào của điều kiện tự nhiên đã ảnh hưởng đến việc phát triển nông nghiệp ở Trung Quốc cổ đại?"
+    answer = "Phù sa của các dòng sông Hoàng Hà và Trường Giang tạo ra đồng bằng Hoa Bắc, Hoa Trung và Hoa Nam rộng lớn, phì nhiêu."
+    alternatives = [
+        "Sự đa dạng địa hình từ núi cao đến đồng bằng đã tạo điều kiện cho việc phát triển nông nghiệp.",
+        "Các đồng cỏ ở thượng nguồn các dòng sông đã tạo điều kiện thuận lợi cho việc chăn nuôi.",
+        "Sự đất đai giàu phúc và thổ nhưỡng tốt đã làm cho việc canh tác trở nên dễ dàng hơn."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Năm nào nhà Tần thống nhất Trung Quốc và xác lập chế độ phong kiến đầu tiên?"
+    answer = "Năm 221 TCN."
+    alternatives = [
+        "Năm 206 TCN.",
+        "Năm 1027 TCN.",
+        "Năm 1523 TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Nhà nước nào đã thống nhất Trung Quốc sau khi nhà Tần suy yếu?"
+    answer = "Nhà Hán."
+    alternatives = [
+        "Nhà Tấn.",
+        "Nhà Thương.",
+        "Nhà Tuỳ."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Triều đại nào được coi là một trong những triều đại thịnh vượng nhất của chế độ phong kiến Trung Quốc?"
+    answer = "Nhà Hán."
+    alternatives = [
+        "Nhà Tần.",
+        "Nhà Thương.",
+        "Nhà Tuỳ."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Tác phẩm văn học nào được coi là tập thơ cổ nhất ở Trung Quốc?"
+    answer = "Kinh Thi."
+    alternatives = [
+        "Ma-ha-bha-ra-ta.",
+        "Ra-ma-y-a-na.",
+        "Tư Mã Thiên."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Nhà Hán đã thực hiện các biện pháp nào để củng cố sự thống nhất đất nước và quản lý lãnh thổ?"
+    answer = "Nhà Hán đã áp dụng chế độ đo lường, tiền tệ, chữ viết và pháp luật chung trên cả nước."
+    alternatives = [
+        "Nhà Hán đã tăng cường quân số và mở rộng đế chế.",
+        "Nhà Hán đã thực hiện chính sách thu thuế cao để tăng nguồn thu ngân sách.",
+        "Nhà Hán đã giải quyết các vấn đề xã hội và phát triển nông nghiệp."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Nhà Tần đã thực hiện các biện pháp nào để củng cố sự thống nhất đất nước và quản lý lãnh thổ?"
+    answer = "Nhà Tần đã chia đất nước thành các quận, huyện, đặt các chức quan cai quản."
+    alternatives = [
+        "Nhà Tần đã thực hiện chính sách phát triển kinh tế và mở cửa thương mại với các nước láng giềng.",
+        "Nhà Tần đã tăng cường quân số và mở rộng đế chế.",
+        "Nhà Tần đã thực hiện chính sách giáo dục và nâng cao dân trí."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Năm nào nhà Tần bị lật đổ, mở đầu cho thời kỳ của nhà Hán?"
+    answer = "Năm 206 TCN."
+    alternatives = [
+        "Năm 221 TCN.",
+        "Năm 1523 TCN.",
+        "Năm 1027 TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Triều đại nào được xem là thời kỳ Tam quốc?"
+    answer = "Thời kỳ từ năm 220 đến năm 280."
+    alternatives = [
+        "Thời kỳ từ năm 206 TCN đến năm 220 TCN.",
+        "Thời kỳ từ năm 581 đến năm 618.",
+        "Thời kỳ từ năm 1027 TCN đến năm 581 TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Triều đại nào được xem là thời kỳ Nam - Bắc - triều?"
+    answer = "Thời kỳ từ năm 420 đến năm 581."
+    alternatives = [
+        "Thời kỳ từ năm 206 TCN đến năm 220 TCN.",
+        "Thời kỳ từ năm 221 TCN đến năm 206 TCN.",
+        "Thời kỳ từ năm 1523 TCN đến năm 1027 TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Bộ Hoàng đế nội kinh của Hoa Đà được coi là sách kinh điền của ngành nào?"
+    answer = "Hoa Đà được coi là sách kinh điền của y học cổ truyền Trung Hoa."
+    alternatives = [
+        "Hoa Đà được coi là sách kinh điền của triết học Trung Hoa.",
+        "Hoa Đà được coi là sách kinh điền của văn học Trung Hoa.",
+        "Hoa Đà được coi là sách kinh điền của kinh doanh Trung Hoa."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Công trình nào được coi là điểm du lịch nổi tiếng ở Trung Quốc và thu hút hàng triệu khách du lịch mỗi năm?"
+    answer = "Vạn Lý Trường Thành."
+    alternatives = [
+        "Lăng Ly Sơn.",
+        "Bảo tàng Quốc gia Trung Quốc.",
+        "Thành Tượng Lâm."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Năm nào người ta đã tìm thấy ở lăng Ly Sơn 8000 bức tượng binh lính bằng đất nung?"
+    answer = "Năm 1974."
+    alternatives = [
+        "Năm 221 TCN.",
+        "Năm 1027 TCN.",
+        "Năm 1523 TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Năm nào UNESCO công nhận Vạn Lý Trường Thành là Di sản văn hoá thế giới?"
+    answer = "Năm 1987."
+    alternatives = [
+        "Năm 1974.",
+        "Năm 1523 TCN.",
+        "Năm 1027 TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Người nào là người đầu tiên thực hiện phương pháp phẫu thuật gây mê?"
+    answer = "Hoa Đà."
+    alternatives = [
+        "Tư Mã Thiên.",
+        "Lưu Bang.",
+        "Khổng Tử."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Cảng nào được coi là trung tâm xuất nhập khẩu và buôn bán nô lệ sầm uất nhất của thế giới cổ đại?"
+    answer = "Cảng Pi-rê."
+    alternatives = [
+        "Cảng A-ten.",
+        "Cảng Napoli.",
+        "Cảng Alexandria."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Thành bang nào là quan trọng nhất và tiêu biểu cho chế độ dân chủ ở Hy Lạp cổ đại?"
+    answer = "Thành bang A-ten."
+    alternatives = [
+        "Thành bang Thê-bê.",
+        "Thành bang Sparta.",
+        "Thành bang Thê-mi-sô-khê."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Thời kỳ nào được coi là thời kỳ độc lập của Hy Lạp?"
+    answer = "Thời kỳ từ thế kỉ VIII đến thế kỉ IV TCN."
+    alternatives = [
+        "Thời kỳ từ thế kỉ VI đến thế kỉ IV TCN.",
+        "Thời kỳ từ thế kỉ IV đến thế kỉ II TCN.",
+        "Thời kỳ từ thế kỉ II đến thế kỉ I TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Thời kỳ nào đánh dấu sự mở rộng lãnh thổ của Nhà nước La Mã và Óc-ta-vi-út được tôn lên thành Đấng tối cao?"
+    answer = "Thời kỳ từ thế kỉ I TCN."
+    alternatives = [
+        "Thời kỳ từ thế kỉ V TCN.",
+        "Thời kỳ từ thế kỉ III TCN.",
+        "Thời kỳ từ thế kỉ VII TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Người Hy Lạp và La Mã đã sáng tạo ra hệ chữ cái và chữ số nào mà ngày nay chúng ta đang sử dụng?"
+    answer = "Hệ chữ cái La-tinh và chữ số La Mã."
+    alternatives = [
+        "Hệ chữ cái Hy Lạp và chữ số Hi Lạp.",
+        "Hệ chữ cái Phoenicia và chữ số Babylon.",
+        "Hệ chữ cái Mesopotamia và chữ số Ai Cập."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Ai là tác giả của tác phẩm I-li-át và Ô-đi-xê?"
+    answer = "Hô-me."
+    alternatives = [
+        "Aesop.",
+        "Sophocles.",
+        "Aristophanes."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Ai là nhà khoa học nổi tiếng đến từ Hy Lạp?"
+    answer = "Pi-ta-go, Ta-lét, Ác-si-mét."
+    alternatives = [
+        "Archimedes, Socrates, Aristotle.",
+        "Euclid, Thales, Hippocrates.",
+        "Herodotus, Pythagoras, Plato."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Người Hy Lạp và La Mã đã xây dựng những công trình kiến trúc nổi tiếng nào?"
+    answer = "Nhiều công trình, trong đó có các bức tượng Thần Vệ nữ Mi-lô, Lực sĩ ném đĩa, Nữ thần A-tê-na."
+    alternatives = [
+        "Đại học Alexandria, Tháp Eiffel, Đền Zeus Olympia.",
+        "Colosseum, Parthenon, Great Wall.",
+        "Angkor Wat, Taj Mahal, Machu Picchu."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Thời kỳ nào được coi là thời kỳ hoàng kim của văn hóa Hy Lạp và La Mã?"
+    answer = "Thời kỳ từ thế kỉ V đến thế kỉ IV TCN."
+    alternatives = [
+        "Thời kỳ từ thế kỉ III đến thế kỉ II TCN.",
+        "Thời kỳ từ thế kỉ VI đến thế kỉ V TCN.",
+        "Thời kỳ từ thế kỉ IV đến thế kỉ III TCN."
+    ]
+
+    [[Chapter3.questions]]
+    question = "Ai là nhà sử học tiêu biểu của Hy Lạp và La Mã thời cổ đại?"
+    answer = "Hê-rô-đốt, Tuy-xi-dit, Pô-li-bi-út."
+    alternatives = [
+        "Herodotus, Thucydides, Plutarch.",
+        "Livius, Tacitus, Suetonius.",
+        "Xenophon, Dionysius of Halicarnassus, Appian."
+    ]
+
+[Chapter4]
+label = "Lịch sử - Chương 4: Đông Nam Á từ những thế kỉ tiếp giáp đầu công nguyên đến thế kỉ X"
+
+    [[Chapter4.questions]]
+    question = "Đặc điểm nào của Đông Nam Á đã khiến nó được coi là 'cái nôi' của nền văn minh lúa nước?"
+    answer = "Nằm trong vùng nhiệt đới gió mùa, có lượng mưa lớn."
+    alternatives = [
+        "Nằm giữa hai dòng sông lớn.",
+        "Có khí hậu ôn đới quanh năm.",
+        "Đất đai phong phú với nhiều khoáng sản."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Quá trình hình thành các quốc gia sơ kì ở Đông Nam Á chủ yếu dựa trên những hoạt động gì?"
+    answer = "Phát triển nông nghiệp trồng lúa nước và các nghề thủ công như đúc đồng, rèn sắt, dệt, làm gốm."
+    alternatives = [
+        "Thủy sản nuôi trồng và chăn nuôi gia súc.",
+        "Thám hiểm và thực hiện các cuộc chiến tranh mở rộng lãnh thổ.",
+        "Thực hiện các hoạt động đánh bắt cá và săn thú rừng."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Vị trí nào của Đông Nam Á đã khiến khu vực trở thành điểm giao thương quan trọng giữa Trung Quốc, Ấn Độ, và các quốc gia khác?"
+    answer = "Nằm án ngữ trên con đường hàng hải nối liền giữa Ấn Độ Dương với Thái Bình Dương."
+    alternatives = [
+        "Nằm trên đường biên giới giữa Trung Quốc và Ấn Độ.",
+        "Nằm ở trung tâm của châu Á.",
+        "Nằm trên tuyến đường sông lớn nhất thế giới."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Đâu là quốc gia sơ kì xuất hiện đầu tiên ở Đông Nam Á?"
+    answer = "Văn Lang - Âu Lạc."
+    alternatives = [
+        "Chăm-pa.",
+        "Phù Nam.",
+        "Thái Lan."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Quốc gia nào đã phát hiện được bảy chiếc cột đá có khắc chữ San-xkrít và mối quan hệ buôn bán với Trung Quốc từ thời nhà Hán?"
+    answer = "Boóc-nê-ô (Ma-lai-xi-a)."
+    alternatives = [
+        "Thái Lan.",
+        "Việt Nam.",
+        "Cam-pu-chia."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Thành thị nào đã xuất hiện như một hải cảng sầm uất ở Việt Nam cổ đại?"
+    answer = "Óc Eo."
+    alternatives = [
+        "Hội An.",
+        "Hạ Long.",
+        "Cửa Lò."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Thành thị nào đã xuất hiện như một hải cảng sầm uất ở bán đảo Mã Lai?"
+    answer = "Ta-cô-la."
+    alternatives = [
+        "Kuala Lumpur.",
+        "Penang.",
+        "Johor Bahru."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Các vương quốc phong kiến ở Đông Nam Á hình thành và phát triển chủ yếu trong khoảng thời gian nào?"
+    answer = "Từ thế kỉ VII đến thế kỉ X."
+    alternatives = [
+        "Từ thế kỉ IV đến thế kỉ VII.",
+        "Từ thế kỉ X đến thế kỉ XIII.",
+        "Từ thế kỉ XIII đến thế kỉ XV."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Quốc gia nào được xem là nòng cốt và phát triển nhất trong số các vương quốc phong kiến ở Đông Nam Á?"
+    answer = "Đại Cồ Việt."
+    alternatives = [
+        "Sri Kse-tra.",
+        "Pa-gan.",
+        "Đva-ra-va-ti."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Loại ngành kinh tế chính của các vương quốc phong kiến ở Đông Nam Á từ thế kỉ VII đến thế kỉ X là gì?"
+    answer = "Nông nghiệp."
+    alternatives = [
+        "Thủy sản nuôi trồng.",
+        "Chăn nuôi gia súc.",
+        "Công nghiệp."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Thương cảng nào được xem là sầm uất nhất trong vương quốc Sri Vi-giay-a?"
+    answer = "Pa-lem-bang."
+    alternatives = ["Đại Chiêm.","Hội An.","Malacca."]
+
+    [[Chapter4.questions]]
+    question = "Đặc điểm nào của Vương quốc Sri Vi-giay-a đã khiến một nhà địa lí Ả Rập nhận xét về sự giàu có của nó?"
+    answer = "Đất đai sản sinh ra nhiều loại dầu thơm và cây thuốc quý như long não, trầm hương, đình hương, đàn hương, đậu khấu, sa nhân,..."
+    alternatives = ["Dân cư đông đúc và hùng mạnh.","Sở hữu một lượng lớn vàng, bạc.","Có một vị trí địa lý quan trọng."]
+
+    [[Chapter4.questions]]
+    question = "Con đường nào được hình thành nhờ vào quá trình giao lưu thương mại ở Đông Nam Á từ thế kỉ VII đến thế kỉ X?"
+    answer = "Con đường Gia vị."
+    alternatives = ["Con đường Tơ lụa.","Con đường Hồng Lĩnh.","Con đường Hoàng Đế."]
+
+    [[Chapter4.questions]]
+    question = "Các tín ngưỡng dân gian phổ biến ở Đông Nam Á trong quá trình lịch sử bao gồm gì?"
+    answer = "Tín ngưỡng phồn thực, tục thờ cúng tổ tiên, tục cầu mưa."
+    alternatives = [
+    "Tục thờ cúng thần linh, tục thờ cúng tổ tiên, tục cầu mưa.",
+    "Tục thờ cúng thần linh, tín ngưỡng phồn thực, tục cúng tế trời.",
+    "Tục cầu mưa, tục cúng tế trời, tín ngưỡng thờ cúng thần núi."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Trong quá trình giao lưu văn hoá với Ấn Độ, tín ngưỡng phồn thực của người Chăm được biểu tượng bởi vật nào?"
+    answer = "Lin-ga."
+    alternatives = [
+    "Phù điêu.",
+    "Tượng Phật.",
+    "Đền thờ."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Các tín ngưỡng bản địa ở Đông Nam Á đã dung hợp với tôn giáo nào?"
+    answer = "Ấn Độ giáo và Phật giáo."
+    alternatives = [
+    "Hồi giáo và Thiên chúa giáo.",
+    "Đạo giáo và Nho giáo.",
+    "Hindu giáo và Đạo giáo."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Người Khơ-me đã tạo ra chữ viết dựa trên hệ thống chữ cổ nào?"
+    answer = "Chữ Phạn."
+    alternatives = [
+    "Chữ Hán.",
+    "Chữ Pa-li.",
+    "Chữ Nôm."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Chữ viết nào của người Môn được sáng tạo ra dựa trên chữ Pa-li?"
+    answer = "Chữ Môn cổ."
+    alternatives = [
+    "Chữ Thái cổ.",
+    "Chữ Khơ-me cổ.",
+    "Chữ Mã Lai cổ."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Người Việt kế thừa hệ thống chữ viết nào của người Trung Quốc?"
+    answer = "Chữ Hán."
+    alternatives = [
+    "Chữ Phạn.",
+    "Chữ Pa-li.",
+    "Chữ Môn."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Bộ sử thi 'Phạ lắc – Phạ Lam' thuộc về dân tộc nào ở Đông Nam Á?"
+    answer = "Lào."
+    alternatives = [
+    "Thái Lan.",
+    "Cam-pu-chia.",
+    "In-đô-nê-xi-a."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Kiểu kiến trúc tiêu biểu của Ấn Độ giáo ở Đông Nam Á là gì?"
+    answer = "Kiến trúc đền – núi."
+    alternatives = [
+    "Kiến trúc đình – chùa.",
+    "Kiến trúc nhà thờ.",
+    "Kiến trúc lăng mộ."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Đền Bô-rô-bu-đua nằm ở quốc gia nào?"
+    answer = "In-đô-nê-xi-a."
+    alternatives = [
+    "Việt Nam.",
+    "Thái Lan.",
+    "Lào."
+    ]
+
+    [[Chapter4.questions]]
+    question = "Nghệ thuật điêu khắc Đông Nam Á chịu ảnh hưởng rõ rệt của tôn giáo nào?"
+    answer = "Ấn Độ giáo và Phật giáo."
+    alternatives = [
+    "Thiên chúa giáo và Hồi giáo.",
+    "Đạo giáo và Nho giáo.",
+    "Shinto và Đạo giáo."
+    ]
+
+[Chapter5]
+label = "Lịch sử - Chương 5: Việt Nam từ khoảng thế kỉ VII trước công nguyên đến đầu thế kỉ X"
+
+    [[Chapter5.questions]]
+    question = "Nhà nước Văn Lang ra đời vào khoảng thời gian nào?"
+    answer = "Thế kỉ VII TCN."
+    alternatives = ["Thế kỉ VI TCN.","Thế kỉ V TCN.","Thế kỉ IV TCN."]
+
+    [[Chapter5.questions]]
+    question = "Nhờ sự phát triển của công cụ nào mà đời sống sản xuất của người Việt cổ có sự chuyển biến rõ rệt?"
+    answer = "Đồng và sắt."
+    alternatives = ["Đồng và thiếc.","Sắt và đồng đỏ.","Sắt và thiếc."]
+
+    [[Chapter5.questions]]
+    question = "Địa bàn chủ yếu của nước Văn Lang gắn liền với lưu vực các dòng sông lớn ở đâu?"
+    answer = "Bắc Bộ và Bắc Trung Bộ."
+    alternatives = ["Nam Bộ và Tây Nguyên.","Trung Bộ và Tây Bắc.","Bắc Bộ và Tây Nguyên."]
+
+    [[Chapter5.questions]]
+    question = "Nhà nước Văn Lang chia làm bao nhiêu bộ?"
+    answer = "15 bộ."
+    alternatives = ["10 bộ.","12 bộ.","18 bộ."]
+
+    [[Chapter5.questions]]
+    question = "Ai là người đứng đầu liên minh 15 bộ trong nhà nước Văn Lang?"
+    answer = "Hùng Vương."
+    alternatives = ["Lạc Tướng.","Lạc Hầu.","Thục Phán."]
+
+    [[Chapter5.questions]]
+    question = "Nước Âu Lạc được thành lập vào khoảng năm nào?"
+    answer = "208 TCN."
+    alternatives = ["210 TCN.","220 TCN.","230 TCN."]
+
+    [[Chapter5.questions]]
+    question = "Ai là người lên làm vua và xưng là An Dương Vương sau khi đánh bại quân xâm lược nhà Tần?"
+    answer = "Thục Phán."
+    alternatives = ["Hùng Vương.","Lạc Long Quân.","Triệu Đà."]
+
+    [[Chapter5.questions]]
+    question = "Kinh đô của nước Âu Lạc được chuyển từ miền trung du Phong Châu xuống vùng đồng bằng ở đâu?"
+    answer = "Cổ Loa (Đông Anh, Hà Nội)."
+    alternatives = ["Thăng Long (Hà Nội).","Huế.","Sài Gòn (TP. Hồ Chí Minh)."]
+
+    [[Chapter5.questions]]
+    question = "Người Việt cổ đã biết đến nền nông nghiệp nào và sớm lấy nghề gì làm nghề chính?"
+    answer = "Nông nghiệp dùng cày, trồng lúa nước."
+    alternatives = ["Nông nghiệp thủ công, trồng cây ăn quả.","Nông nghiệp dùng cày, trồng cây ăn quả.","Nông nghiệp dùng cày, nuôi trồng thủy sản."]
+
+    [[Chapter5.questions]]
+    question = "Cư dân Văn Lang - Âu Lạc có tục thờ cúng tổ tiên và các vị thần nào trong tự nhiên?"
+    answer = "Thần Sông, thần Núi, thần Mặt Trời."
+    alternatives = ["Thần Biển, thần Đất, thần Mưa.","Thần Núi, thần Biển, thần Gió.","Thần Sông, thần Gió, thần Mưa."]
+
+    [[Chapter5.questions]]
+    question = "Năm nào Triệu Đà chiếm được Âu Lạc?"
+    answer = "179 TCN."
+    alternatives = ["180 TCN.","178 TCN.","177 TCN."]
+
+    [[Chapter5.questions]]
+    question = "Sau khởi nghĩa Hai Bà Trưng (40 – 43), chính quyền từ cấp huyện trở lên đều do ai nắm giữ?"
+    answer = "Người Hán."
+    alternatives = ["Người Việt.","Người Hàn.","Người Mông."]
+
+    [[Chapter5.questions]]
+    question = "Thành Luy Lâu là trị sở của chính quyền đô hộ phương Bắc ở đâu?"
+    answer = "Bắc Ninh."
+    alternatives = ["Hà Nội.","Hải Dương.","Hưng Yên."]
+
+    [[Chapter5.questions]]
+    question = "Từ thế kỉ IX, trị sở của chính quyền An Nam đô hộ chuyển về đâu?"
+    answer = "Tổng Bình - Đại La."
+    alternatives = ["Thăng Long.","Hội An.","Huế."]
+
+    [[Chapter5.questions]]
+    question = "Các triều đại phong kiến phương Bắc áp dụng luật pháp nào để đàn áp các cuộc đấu tranh của nhân dân ta?"
+    answer = "Luật pháp hà khắc."
+    alternatives = ["Luật pháp nhân từ.","Luật pháp công bằng.","Luật pháp khoan dung."]
+
+    [[Chapter5.questions]]
+    question = "Dưới thời nào, chính quyền đô hộ áp đặt chính sách tô thuế nặng nề nhất?"
+    answer = "Thời Đường."
+    alternatives = ["Thời Hán.","Thời Tống.","Thời Nguyên."]
+
+    [[Chapter5.questions]]
+    question = "Chính quyền đô hộ phương Bắc nắm độc quyền về những sản phẩm nào?"
+    answer = "Sắt và muối."
+    alternatives = ["Vàng và bạc.","Ngọc trai và lông trả.","Gỗ tốt và hương liệu."]
+
+    [[Chapter5.questions]]
+    question = "Trong suốt thời Bắc thuộc, chính quyền phong kiến phương Bắc thực hiện chính sách gì để đồng hóa dân tộc Việt?"
+    answer = "Đưa người Hán sang ở cùng với dân Việt."
+    alternatives = ["Áp đặt ngôn ngữ Hán.","Cấm các phong tục tập quán Việt.","Chỉ dạy tiếng Hán trong trường học."]
+
+    [[Chapter5.questions]]
+    question = "Nghề chính của người Việt cổ trong thời Bắc thuộc là gì?"
+    answer = "Trồng lúa nước."
+    alternatives = ["Trồng cây ăn quả.","Làm đồ trang sức.","Chăn nuôi."]
+
+    [[Chapter5.questions]]
+    question = "Các tầng lớp nào trong xã hội có sự biến đổi dưới chính sách cai trị của các triều đại phong kiến phương Bắc?"
+    answer = "Quan lại, địa chủ người Hán và tầng lớp hào trường bản địa."
+    alternatives = ["Nông dân, thợ thủ công, thương nhân.","Quý tộc, binh lính, giáo viên.","Nông dân, học giả, thương nhân."]
+
+    [[Chapter5.questions]]
+    question = "Cuộc khởi nghĩa Hai Bà Trưng diễn ra vào năm nào?"
+    answer = "Năm 40-43."
+    alternatives = [
+    "Năm 39-42.",
+    "Năm 41-44.",
+    "Năm 38-41."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Khởi nghĩa Bà Triệu bùng nổ từ đâu?"
+    answer = "Từ Cửu Chân."
+    alternatives = [
+    "Từ Giao Chỉ.",
+    "Từ Nhật Nam.",
+    "Từ Phong Châu."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Lý Bí xưng hoàng đế và đặt tên nước là gì?"
+    answer = "Vạn Xuân."
+    alternatives = [
+    "Đại Cồ Việt.",
+    "Đại Nam.",
+    "Đại Việt."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Mai Thúc Loan đã chiếm phủ thành nào?"
+    answer = "Phủ thành An Nam."
+    alternatives = [
+    "Phủ thành Đại La.",
+    "Phủ thành Luy Lâu.",
+    "Phủ thành Cổ Loa."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Phùng Hưng được tôn xưng là gì?"
+    answer = "Bố Cái Đại Vương."
+    alternatives = [
+    "Nam Đế.",
+    "Lý Nam Đế.",
+    "Triệu Việt Vương."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Hai Bà Trưng dựng cờ khởi nghĩa tại đâu?"
+    answer = "Cửa sông Hát."
+    alternatives = [
+    "Cửa sông Đuống.",
+    "Cửa sông Cả.",
+    "Cửa sông Thao."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Cuộc khởi nghĩa Bà Triệu khiến cho khu vực nào chấn động?"
+    answer = "Toàn thể Giao Châu."
+    alternatives = [
+    "Toàn thể Cửu Chân.",
+    "Toàn thể Nhật Nam.",
+    "Toàn thể Phong Châu."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Nước Vạn Xuân bị nhà Tuỳ xâm lược vào năm nào?"
+    answer = "Năm 602."
+    alternatives = [
+    "Năm 603.",
+    "Năm 601.",
+    "Năm 600."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Mai Thúc Loan xưng đế và xây thành gì làm quốc đô?"
+    answer = "Thành Vạn An."
+    alternatives = [
+    "Thành Đại La.",
+    "Thành Luy Lâu.",
+    "Thành Cổ Loa."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Phùng Hưng đã chiếm thành Tống Bình trong thời gian bao lâu?"
+    answer = "Trong vòng 9 năm."
+    alternatives = [
+    "Trong vòng 8 năm.",
+    "Trong vòng 7 năm.",
+    "Trong vòng 10 năm."
+    ]
+
+    [[Chapter5.questions]]
+    question = "Người Việt đã giữ gìn tiếng mẹ đẻ của mình bằng cách nào trong thời kỳ Bắc thuộc?"
+    answer = "Truyền dạy cho con cháu."
+    alternatives = ["Không sử dụng tiếng Hán.","Chỉ nói tiếng Việt khi ở nhà.","Học tiếng Việt ở trường."]
+
+    [[Chapter5.questions]]
+    question = "Những tín ngưỡng truyền thống nào của người Việt tiếp tục được duy trì trong thời kỳ Bắc thuộc?"
+    answer = "Thờ cúng tổ tiên, thờ các vị thần tự nhiên."
+    alternatives = ["Thờ vua Hùng, thờ Phật.","Thờ Thánh Gióng, thờ các vị vua.","Thờ thần linh, thờ tổ tiên nhà Hán."]
+
+    [[Chapter5.questions]]
+    question = "Phong tục tập quán nào sau đây vẫn được người Việt duy trì?"
+    answer = "Búi tóc, xăm mình, nhuộm răng đen."
+    alternatives = ["Mặc áo dài, đeo khuyên tai.","Đeo vòng cổ, mang dép.","Mặc quần áo dài tay, đội mũ."]
+
+    [[Chapter5.questions]]
+    question = "Người Việt đã tiếp thu phát minh kỹ thuật nào từ Trung Hoa?"
+    answer = "Làm giấy, chế tạo đồ thủy tinh."
+    alternatives = ["Làm lụa, chế tạo đồ sứ.","Chế tạo đồng hồ, làm đồ sứ.","Làm gốm, chế tạo vũ khí."]
+
+    [[Chapter5.questions]]
+    question = "Chữ Hán được người Việt tiếp thu như thế nào trong thời kỳ Bắc thuộc?"
+    answer = "Tiếp thu chữ Hán, một số quy tắc lễ nghĩa, cách đặt tên họ giống người Hán."
+    alternatives = ["Chỉ học chữ Hán để đọc kinh Phật.","Chỉ sử dụng chữ Hán trong hành chính.","Chỉ học chữ Hán để ghi chép lịch sử."]
+
+    [[Chapter5.questions]]
+    question = "Người Việt tiếp thu Đạo giáo như thế nào?"
+    answer = "Có sự hòa nhập với tín ngưỡng dân gian."
+    alternatives = ["Chỉ tiếp thu một phần nhỏ.","Tiếp thu hoàn toàn không thay đổi.","Không tiếp thu Đạo giáo."]
+
+    [[Chapter5.questions]]
+    question = "Người Việt đã làm gì để giữ gìn phong tục ăn trầu?"
+    answer = "Tiếp khách thì đãi trầu cau."
+    alternatives = ["Chỉ ăn trầu vào ngày Tết.","Không tiếp thu phong tục ăn trầu.","Chỉ ăn trầu khi có lễ hội."]
+
+    [[Chapter5.questions]]
+    question = "Người Việt đã làm gì để bảo tồn tục xăm mình?"
+    answer = "Tin rằng nếu xăm mình sẽ không bị thủy quái làm hại."
+    alternatives = ["Xăm mình để làm đẹp.","Xăm mình để phân biệt giai cấp.","Không xăm mình trong lễ hội."]
+
+    [[Chapter5.questions]]
+    question = "Người Việt đã tiếp thu những lễ tết nào từ Trung Hoa?"
+    answer = "Tết Nguyên đán, Trung thu."
+    alternatives = ["Tết Đoan Ngọ, Tết Hàn Thực.","Tết Nguyên tiêu, Tết Trung thu.","Tết Hàn thực, Tết Nguyên tiêu."]
+
+    [[Chapter5.questions]]
+    question = "Một số vị cao tăng nổi tiếng của người Việt đã làm gì trong thời kỳ Bắc thuộc?"
+    answer = "Sang kinh đô nhà Đường để giảng kinh cho vua Đường."
+    alternatives = ["Sang Ấn Độ để học Phật giáo.","Ở lại Việt Nam giảng kinh.","Sang Nhật Bản để truyền đạo."]
+
+    [[Chapter5.questions]]
+    question = "Ai đã khởi nghĩa chiếm thành Đại La vào năm 905 và tự xưng là tiết độ sứ, xây dựng chính quyền tự chủ của người Việt?"
+    answer = "Khúc Thừa Dụ."
+    alternatives = ["Khúc Hạo.","Dương Đình Nghệ.","Ngô Quyền."]
+
+    [[Chapter5.questions]]
+    question = "Cải cách của Khúc Hạo có nội dung chính gì?"
+    answer = "Định lại mức thuế cho công bằng, lập sổ hộ khẩu, tha bỏ lực dịch cho dân."
+    alternatives = ["Tăng thuế, tăng cường lực dịch cho dân.","Giảm thuế, chỉ giữ lại lực dịch.","Lập sổ hộ khẩu, tăng cường lực dịch."]
+
+    [[Chapter5.questions]]
+    question = "Dương Đình Nghệ đã đánh bại quân Nam Hán vào năm nào để củng cố nền tự chủ?"
+    answer = "Năm 931."
+    alternatives = ["Năm 905.","Năm 938.","Năm 930."]
+
+    [[Chapter5.questions]]
+    question = "Dương Đình Nghệ đã làm gì để chiến thắng quân Nam Hán?"
+    answer = "Kéo quân từ Thanh Hoá ra Bắc, vây chiếm thành Đại La, chặn đánh quân tiếp viện."
+    alternatives = ["Liên minh với quân Nam Hán.","Rút quân về Thanh Hoá phòng thủ.","Xây dựng lực lượng tại làng Giàng."]
+
+    [[Chapter5.questions]]
+    question = "Ngô Quyền đã sử dụng chiến thuật nào để đánh bại quân Nam Hán trên sông Bạch Đằng năm 938?"
+    answer = "Đóng cọc ngầm trên sông, dùng thuyền nhẹ khiêu chiến rồi rút lui để dụ địch vào bẫy."
+    alternatives = ["Đánh trực diện bằng lực lượng đông đảo.","Sử dụng hỏa công đốt thuyền địch.","Liên minh với quân Nam Hán để tiêu diệt địch."]
+
+    [[Chapter5.questions]]
+    question = "Ngô Quyền quê ở đâu?"
+    answer = "Đường Lâm (Sơn Tây - Hà Nội)."
+    alternatives = ["Hồng Châu (Hải Dương).","Thanh Hoá.","Phổ Yên (Thái Nguyên)."]
+
+    [[Chapter5.questions]]
+    question = "Chiến thắng Bạch Đằng năm 938 đã chấm dứt điều gì?"
+    answer = "Chấm dứt vĩnh viễn thời kỳ Bắc thuộc."
+    alternatives = ["Chấm dứt thời kỳ phong kiến.","Chấm dứt chiến tranh giữa các bộ tộc.","Chấm dứt quyền cai trị của họ Khúc."]
+
+    [[Chapter5.questions]]
+    question = "Chiến thắng Bạch Đằng năm 938 có ý nghĩa gì?"
+    answer = "Mở ra kỷ nguyên độc lập tự chủ lâu dài cho dân tộc."
+    alternatives = ["Mở ra kỷ nguyên thịnh vượng cho họ Khúc.","Kết thúc xung đột giữa các bộ tộc Việt.","Mở ra thời kỳ hòa bình với Nam Hán."]
+
+    [[Chapter5.questions]]
+    question = "Ngô Quyền đã làm gì để chuẩn bị đối phó với quân Nam Hán?"
+    answer = "Chọn vùng cửa sông Bạch Đằng để bố trí trận địa đánh giặc."
+    alternatives = ["Xây dựng quân đội mạnh tại Thanh Hoá.","Liên minh với các bộ tộc lân cận.","Chọn vùng cửa sông Hồng để bố trí trận địa đánh giặc."]
+
+    [[Chapter5.questions]]
+    question = "Trận chiến Bạch Đằng năm 938 có điểm độc đáo gì trong tổ chức đánh giặc của Ngô Quyền?"
+    answer = "Sử dụng cọc ngầm và lợi dụng thuỷ triều để đánh bại địch."
+    alternatives = ["Sử dụng hỏa công để tiêu diệt địch.","Sử dụng chiến thuật tấn công ban đêm.","Sử dụng quân kỵ binh để đánh địch."]
+
+    [[Chapter5.questions]]
+    question = "Vương quốc Chăm-pa được thành lập dưới sự lãnh đạo của ai?"
+    answer = "Khu Liên."
+    alternatives = ["Khúc Thừa Dụ.","Dương Đình Nghệ.","Ngô Quyền."]
+
+    [[Chapter5.questions]]
+    question = "Tên gọi ban đầu của Vương quốc Chăm-pa là gì?"
+    answer = "Lâm Ấp."
+    alternatives = ["Tượng Lâm.","Vi-ra-pu-ra.","Sin-ha-pu-ra."]
+
+    [[Chapter5.questions]]
+    question = "Kinh đô đầu tiên của Vương quốc Chăm-pa đặt ở đâu?"
+    answer = "Sin-ha-pu-ra (Trà Kiệu, Quảng Nam)."
+    alternatives = ["Vi-ra-pu-ra (Phan Rang, Ninh Thuận).","In-đra-pu-ra (Đồng Dương, Quảng Nam).","Lâm Ấp (Tượng Lâm)."]
+
+    [[Chapter5.questions]]
+    question = "Kinh đô của Chăm-pa chuyển về Vi-ra-pu-ra (Phan Rang, Ninh Thuận) vào thế kỷ nào?"
+    answer = "Thế kỷ VIII."
+    alternatives = ["Thế kỷ IX.","Thế kỷ X.","Thế kỷ VII."]
+
+    [[Chapter5.questions]]
+    question = "Hoạt động kinh tế nào là nổi bật của người Chăm-pa?"
+    answer = "Nghề đi biển và buôn bán quốc tế."
+    alternatives = ["Trồng lúa nước.","Chăn nuôi gia súc, gia cầm.","Sản xuất đồ gốm."]
+
+    [[Chapter5.questions]]
+    question = "Người Chăm đã sáng tạo ra hệ thống chữ viết của riêng mình từ thế kỷ nào?"
+    answer = "Thế kỷ IV."
+    alternatives = ["Thế kỷ V.","Thế kỷ III.","Thế kỷ II."]
+
+    [[Chapter5.questions]]
+    question = "Tín ngưỡng và tôn giáo nào được người Chăm du nhập từ bên ngoài?"
+    answer = "Phật giáo và Ấn Độ giáo."
+    alternatives = ["Thần Mặt Trời và thần Nước.","Thần Lúa và thần Núi.","Thần Mặt Trời và thần Núi."]
+
+    [[Chapter5.questions]]
+    question = "Thánh địa Mỹ Sơn là một trong những di sản văn hóa của người Chăm thuộc tỉnh nào hiện nay?"
+    answer = "Quảng Nam."
+    alternatives = ["Ninh Thuận.","Bình Định.","Quảng Ngãi."]
+
+    [[Chapter5.questions]]
+    question = "Lễ hội Ka-tê của người Chăm được tổ chức vào thời gian nào?"
+    answer = "Tháng 9 - đầu tháng 10 dương lịch."
+    alternatives = ["Tháng 6 - tháng 7 dương lịch.","Tháng 11 - tháng 12 dương lịch.","Tháng 4 - tháng 5 dương lịch."]
+
+    [[Chapter5.questions]]
+    question = "Trong xã hội Chăm-pa, ai có quyền lực tối cao?"
+    answer = "Vua."
+    alternatives = ["Tể tướng.","Quan đại thần.","Tăng lữ."]
+
+    [[Chapter5.questions]]
+    question = "Vương quốc Phù Nam được thành lập vào khoảng thời gian nào?"
+    answer = "Thế kỉ I."
+    alternatives = ["Thế kỉ II.","Thế kỉ III.","Thế kỉ IV."]
+
+    [[Chapter5.questions]]
+    question = "Địa bàn chủ yếu của Vương quốc Phù Nam nằm ở khu vực nào hiện nay?"
+    answer = "Nam Bộ Việt Nam."
+    alternatives = ["Bắc Bộ Việt Nam.","Trung Bộ Việt Nam.","Đông Bắc Việt Nam."]
+
+    [[Chapter5.questions]]
+    question = "Trong thời kỳ đỉnh cao, phạm vi của Vương quốc Phù Nam bao gồm các vùng đất của nước nào hiện nay?"
+    answer = "Một số nước Đông Nam Á."
+    alternatives = ["Trung Quốc.","Ấn Độ.","Nhật Bản."]
+
+    [[Chapter5.questions]]
+    question = "Phù Nam phát triển thành đế chế hùng mạnh ở khu vực Đông Nam Á vào khoảng thời gian nào?"
+    answer = "Thế kỉ III – V."
+    alternatives = ["Thế kỉ I – II.","Thế kỉ VI – VII.","Thế kỉ VIII – IX."]
+
+    [[Chapter5.questions]]
+    question = "Một trong những trung tâm chính trị, kinh tế quan trọng của Vương quốc Phù Nam là gì?"
+    answer = "Óc Eo."
+    alternatives = ["Thăng Long.","Angkor Wat.","Đồng Dương."]
+
+    [[Chapter5.questions]]
+    question = "Người Chân Lạp xâm chiếm Vương quốc Phù Nam vào thời gian nào?"
+    answer = "Đầu thế kỉ VII."
+    alternatives = ["Đầu thế kỉ VI.","Cuối thế kỉ VII.","Giữa thế kỉ VIII."]
+
+    [[Chapter5.questions]]
+    question = "Hoạt động kinh tế nào là nổi bật của người Phù Nam?"
+    answer = "Buôn bán."
+    alternatives = ["Trồng lúa nước.","Chăn nuôi gà.","Luyện đồng."]
+
+    [[Chapter5.questions]]
+    question = "Xã hội Phù Nam được phân chia thành mấy thành phần chính?"
+    answer = "Năm thành phần."
+    alternatives = ["Ba thành phần.","Bốn thành phần.","Sáu thành phần."]
+
+    [[Chapter5.questions]]
+    question = "Tôn giáo nào được người Phù Nam tiếp nhận từ Ấn Độ?"
+    answer = "Phật giáo và Ấn Độ giáo."
+    alternatives = ["Đạo giáo và Nho giáo.","Hồi giáo và Kitô giáo.","Thần giáo và Đạo giáo."]
+
+    [[Chapter5.questions]]
+    question = "Người Phù Nam thường dựng nhà sàn rộng bằng gì?"
+    answer = "Gỗ và lợp mái lá."
+    alternatives = ["Đá và lợp mái ngói.","Gạch và lợp mái ngói.","Gỗ và lợp mái tranh."]

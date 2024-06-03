@@ -1,0 +1,1169 @@
+[Chapter1]
+label = "Địa lý - Chương 1: Bản đồ - Phương tiện thể hiện bề mặt Trái Đất"
+
+    [[Chapter1.questions]]
+    question = "Kinh tuyến là gì?"
+    answer = "Nửa đường tròn nổi hai cực trên bề mặt quả Địa Cầu."
+    alternatives = [
+    "Đường thẳng nối hai điểm cực trên bề mặt quả Địa Cầu.",
+    "Đường thẳng nằm ngang trên bề mặt quả Địa Cầu.",
+    "Đường thẳng nối hai điểm cực và Xích đạo trên bề mặt quả Địa Cầu."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Vĩ tuyến là gì?"
+    answer = "Vòng tròn bao quanh quả Địa Cầu và vuông góc với các kinh tuyến."
+    alternatives = [
+    "Đường thẳng nối hai điểm cực trên bề mặt quả Địa Cầu.",
+    "Đường thẳng nằm ngang trên bề mặt quả Địa Cầu.",
+    "Đường thẳng nối hai điểm cực và Xích đạo trên bề mặt quả Địa Cầu."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Kinh tuyến gốc và vĩ tuyến gốc là gì?"
+    answer = "Kinh tuyến gốc là kinh tuyến đi qua Đài thiên văn Grin-uých, vĩ tuyến gốc là Xích đạo."
+    alternatives = [
+    "Kinh tuyến gốc là kinh tuyến đi qua Đài thiên văn Grin-uých, vĩ tuyến gốc là kinh tuyến 180°.",
+    "Kinh tuyến gốc là kinh tuyến đi qua Đài thiên văn Grin-uých, vĩ tuyến gốc là kinh tuyến 90°.",
+    "Kinh tuyến gốc là kinh tuyến đi qua Đài thiên văn Grin-uých, vĩ tuyến gốc là kinh tuyến 0°."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Kinh tuyến gốc và kinh tuyến 180° chia quả Địa Cầu thành những phần nào?"
+    answer = "Bán cầu Đông và bán cầu Tây."
+    alternatives = [
+    "Bán cầu Bắc và bán cầu Nam.",
+    "Bán cầu Tây và bán cầu Bắc.",
+    "Bán cầu Nam và bán cầu Đông."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Vĩ tuyến gốc chia quả Địa Cầu thành những phần nào?"
+    answer = "Bán cầu Bắc và bán cầu Nam."
+    alternatives = [
+    "Bán cầu Tây và bán cầu Đông.",
+    "Bán cầu Nam và bán cầu Đông.",
+    "Bán cầu Bắc và bán cầu Đông."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Kinh độ của một điểm là gì?"
+    answer = "Khoảng cách tính bằng độ từ kinh tuyến gốc đến kinh tuyến đi qua điểm đó."
+    alternatives = [
+    "Khoảng cách tính bằng độ từ Xích đạo đến vĩ tuyến đi qua điểm đó.",
+    "Khoảng cách tính bằng độ từ kinh tuyến gốc đến Xích đạo.",
+    "Khoảng cách tính bằng độ từ kinh tuyến 180° đến kinh tuyến đi qua điểm đó."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Vĩ độ của một điểm là gì?"
+    answer = "Khoảng cách tính bằng độ từ Xích đạo đến vĩ tuyến đi qua điểm đó."
+    alternatives = [
+    "Khoảng cách tính bằng độ từ kinh tuyến gốc đến vĩ tuyến đi qua điểm đó.",
+    "Khoảng cách tính bằng độ từ vĩ tuyến gốc đến vĩ tuyến đi qua điểm đó.",
+    "Khoảng cách tính bằng độ từ kinh tuyến gốc đến kinh tuyến đi qua điểm đó."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Toạ độ địa lí của một điểm là gì?"
+    answer = "Kinh độ và vĩ độ của điểm đó."
+    alternatives = [
+    "Kinh tuyến và vĩ tuyến của điểm đó.",
+    "Kinh tuyến và kinh độ của điểm đó.",
+    "Vĩ tuyến và vĩ độ của điểm đó."
+    ]
+
+    [[Chapter1.questions]]
+    question = "Bản đồ là gì?"
+    answer = "Hình vẽ thu nhỏ một phần hay toàn bộ bề mặt Trái Đất lên mặt phẳng trên cơ sở toán học, trên đó các đối tượng địa lý được thể hiện bằng các kí hiệu bản đồ."
+    alternatives = ["Hình vẽ biểu đạt vị trí tương đối của các vật thể trên bề mặt Trái Đất.","Hình vẽ chỉ thể hiện một phần nhỏ của bề mặt Trái Đất.","Hình vẽ mô tả chi tiết về một vùng đất cụ thể trên Trái Đất."]
+
+    [[Chapter1.questions]]
+    question = "Phương hướng trên bản đồ được xác định như thế nào?"
+    answer = "Dựa vào các đường kinh tuyến và vĩ tuyến, hoặc mũi tên chỉ hướng bắc."
+    alternatives = ["Dựa vào các dãy núi và sông trên bản đồ.","Dựa vào các biểu đồ thời tiết.","Dựa vào hình vẽ của địa hình trên bản đồ."]
+
+    [[Chapter1.questions]]
+    question = "Trên bản đồ, đầu trên của các kinh tuyến chỉ hướng về đâu?"
+    answer = "Bắc."
+    alternatives = ["Nam.","Tây.","Đông."]
+
+    [[Chapter1.questions]]
+    question = "Trên bản đồ, đầu dưới của các kinh tuyến chỉ hướng về đâu?"
+    answer = "Nam."
+    alternatives = ["Bắc.","Tây.","Đông."]
+
+    [[Chapter1.questions]]
+    question = "Trên bản đồ, đầu bên trái của các vĩ tuyến chỉ hướng về đâu?"
+    answer = "Tây."
+    alternatives = ["Bắc.","Nam.","Đông."]
+
+    [[Chapter1.questions]]
+    question = "Trên bản đồ, đầu bên phải của các vĩ tuyến chỉ hướng về đâu?"
+    answer = "Đông."
+    alternatives = ["Bắc.","Nam.","Tây."]
+
+    [[Chapter1.questions]]
+    question = "Tỉ lệ bản đồ là gì?"
+    answer = "Tỉ lệ bản đồ cho biết mức độ thu nhỏ độ dài giữa các đối tượng trên bản đồ so với thực tế."
+    alternatives = ["Tỉ lệ bản đồ cho biết độ lớn của một khu vực trên bản đồ so với thực tế.","Tỉ lệ bản đồ cho biết số lượng các đối tượng trên bản đồ so với thực tế.","Tỉ lệ bản đồ cho biết độ sâu của các đối tượng trên bản đồ so với thực tế."]
+
+    [[Chapter1.questions]]
+    question = "Tỉ lệ 1 : 1,000,000 trên bản đồ có ý nghĩa gì?"
+    answer = "1 cm trên bản đồ bằng 1,000,000 cm hay 10 km trên thực tế."
+    alternatives = ["1 cm trên bản đồ bằng 100,000 cm hay 1 km trên thực tế.","1 cm trên bản đồ bằng 10,000 cm hay 100 km trên thực tế.","1 cm trên bản đồ bằng 1,000 cm hay 10 km trên thực tế."]
+
+    [[Chapter1.questions]]
+    question = "Tỉ lệ thước trên bản đồ thường được tính như thế nào?"
+    answer = "Mỗi đoạn 1 cm tương ứng với 1 km trên thực tế."
+    alternatives = ["Mỗi đoạn 1 cm tương ứng với 10 km trên thực tế.","Mỗi đoạn 1 cm tương ứng với 100 km trên thực tế.","Mỗi đoạn 1 cm tương ứng với 0.1 km trên thực tế."]
+
+    [[Chapter1.questions]]
+    question = "Muốn tính khoảng cách thực tế giữa hai điểm trên bản đồ, ta làm gì?"
+    answer = "Dùng thước đo khoảng cách từ hai điểm trên bản đồ rồi dựa vào tỉ lệ bản đồ để tính."
+    alternatives = ["Dùng chiều dài trên bản đồ để tính trực tiếp.","Dùng công thức tính khoảng cách trên mặt phẳng.","Dùng kinh tuyến và vĩ tuyến để tính."]
+
+    [[Chapter1.questions]]
+    question = "Kí hiệu bản đồ được sử dụng để thể hiện các đối tượng địa lí như thế nào?"
+    answer = "Kí hiệu bản đồ được sử dụng thông qua các dấu hiệu quy ước để thể hiện các sự vật, hiện tượng địa lí trên bản đồ."
+    alternatives = ["Kí hiệu bản đồ được sử dụng thông qua việc ghi chú đầy đủ mô tả đối tượng.","Kí hiệu bản đồ được sử dụng thông qua việc sử dụng chữ viết trực tiếp.","Kí hiệu bản đồ được sử dụng thông qua việc sử dụng màu sắc đa dạng."]
+
+    [[Chapter1.questions]]
+    question = "Bảng chú giải trên bản đồ thường được đặt ở đâu?"
+    answer = "Bảng chú giải thường được đặt ở phía dưới bản đồ hoặc những khu vực trống trên bản đồ."
+    alternatives = ["Bảng chú giải thường được đặt ở phía trên bản đồ.","Bảng chú giải thường được đặt ở phía bên trái bản đồ.","Bảng chú giải thường được đặt ở phía bên phải bản đồ."]
+
+    [[Chapter1.questions]]
+    question = "Để tìm đường đi trên bản đồ, cần thực hiện theo các bước nào?"
+    answer = "Xác định nơi đi và nơi đến, hướng đi trên bản đồ; tìm các cung đường có thể đi và lựa chọn cung đường thích hợp; dựa vào tỉ lệ bản đồ để xác định khoảng cách thực tế sẽ đi."
+    alternatives = ["Tìm các cung đường có thể đi và lựa chọn cung đường thích hợp; dựa vào tỉ lệ bản đồ để xác định khoảng cách thực tế sẽ đi.","Xác định nơi đi và nơi đến, hướng đi trên bản đồ; dựa vào tỉ lệ bản đồ để xác định khoảng cách thực tế sẽ đi.","Tìm các cung đường có thể đi và lựa chọn cung đường thích hợp; xác định nơi đi và nơi đến, hướng đi trên bản đồ."]
+
+    [[Chapter1.questions]]
+    question = "Lược đồ trí nhớ là gì?"
+    answer = "Lược đồ trí nhớ là những thông tin không gian về thế giới được giữ lại trong trí óc con người, đánh dấu các địa điểm mà một người từng gặp, từng đến, phản ánh sự cảm nhận về không gian sống và ý nghĩa của không gian ấy đối với cá nhân."
+    alternatives = ["Lược đồ trí nhớ là những thông tin biểu đạt bằng ngôn ngữ về thế giới được giữ lại trong trí óc con người.","Lược đồ trí nhớ là những hình ảnh về thế giới được giữ lại trong trí óc con người.","Lược đồ trí nhớ là những kiến thức về thế giới được giữ lại trong trí óc con người."]
+
+    [[Chapter1.questions]]
+    question = "Khi vẽ lược đồ trí nhớ đường đi, những bước nào cần thực hiện?"
+    answer = "Khi vẽ lược đồ trí nhớ đường đi, cần thực hiện các bước sau: hồi tưởng lại điểm xuất phát và điểm kết thúc, xác định hướng đi chính và khoảng cách giữa hai điểm đó, hồi tưởng và xác định các điểm mốc chính, xác định hướng đi và khoảng cách giữa các điểm mốc."
+    alternatives = ["Khi vẽ lược đồ trí nhớ đường đi, cần thực hiện các bước sau: vẽ ngay từ điểm xuất phát đến điểm kết thúc, xác định các điểm mốc ngẫu nhiên.","Khi vẽ lược đồ trí nhớ đường đi, cần thực hiện các bước sau: xác định hướng đi chính và khoảng cách giữa hai điểm đó, xác định hướng đi và khoảng cách giữa các điểm mốc, không cần hồi tưởng lại điểm xuất phát và điểm kết thúc.","Khi vẽ lược đồ trí nhớ đường đi, cần thực hiện các bước sau: xác định hướng đi và khoảng cách giữa các điểm mốc, không cần hồi tưởng lại điểm xuất phát và điểm kết thúc."]
+
+    [[Chapter1.questions]]
+    question = "Lược đồ trí nhớ một khu vực thường được sử dụng để làm gì?"
+    answer = "Lược đồ trí nhớ một khu vực thường được sử dụng để tái hiện tổng thể khu vực đó, bao gồm các đối tượng, diện tích, hướng, khoảng cách giữa các đối tượng."
+    alternatives = ["Lược đồ trí nhớ một khu vực thường được sử dụng để chỉ ra các đường đi cụ thể trong khu vực đó.","Lược đồ trí nhớ một khu vực thường được sử dụng để vẽ các hình ảnh tổng quan về khu vực đó.","Lược đồ trí nhớ một khu vực thường được sử dụng để chỉ ra vị trí cụ thể của các địa điểm trong khu vực đó."]
+
+[Chapter2]
+label = "Địa lý - Chương 2: Trái Đất - Hành tinh của Hệ Mặt Trời"
+
+    [[Chapter2.questions]]
+    question = "Vị trí nào của Trái Đất trong hệ Mặt Trời?"
+    answer = "Nằm ở trung tâm của hệ Mặt Trời, xung quanh Mặt Trời."
+    alternatives = ["Nằm ở biên của hệ Mặt Trời, gần sao chổi.","Nằm ở gần Mặt Trời, sát với sao Mộc.","Nằm ở ngoài cùng của hệ Mặt Trời, gần sao Hỏa.",]
+
+    [[Chapter2.questions]]
+    question = "Theo bài học, vì sao khoảng cách từ Trái Đất đến Mặt Trời quan trọng?"
+    answer = "Khoảng cách này giúp Trái Đất nhận được lượng nhiệt và ánh sáng phù hợp cho sự sống tồn tại và phát triển."
+    alternatives = ["Khoảng cách này ảnh hưởng đến việc quay quanh Mặt Trời của Trái Đất.","Khoảng cách này quyết định mùa vụ trên Trái Đất.","Khoảng cách này làm thay đổi hình dạng của Trái Đất theo thời gian.",]
+
+    [[Chapter2.questions]]
+    question = "Theo bài, ánh sáng từ các hành tinh trong hệ Mặt Trời được tạo ra như thế nào?"
+    answer = "Ánh sáng từ các hành tinh được tạo ra do phản chiếu ánh sáng từ Mặt Trời."
+    alternatives = ["Ánh sáng từ các hành tinh tự phát ra từ chúng.","Ánh sáng từ các hành tinh là do nhiệt độ bên trong chúng tạo ra.","Ánh sáng từ các hành tinh là kết quả của sự va chạm với các thiên thể khác trong không gian.",]
+
+    [[Chapter2.questions]]
+    question = "Ai đã đưa ra các bằng chứng cho thấy Trái Đất có dạng hình cầu?"
+    answer = "Triết gia người Hy Lạp, A-ri-xtốt."
+    alternatives = ["Nhà vật lý người Đức, Ân-ban-đo.","Nhà thiên văn người Ba Lan, Kopernic.","Nhà toán học người Ấn Độ, Aryabhata.",]
+
+    [[Chapter2.questions]]
+    question = "Kích thước của Xích đạo của Trái Đất là bao nhiêu?"
+    answer = "6 378 km."
+    alternatives = ["10 000 km.","5 000 km.","8 000 km.",]
+
+    [[Chapter2.questions]]
+    question = "Ai đã chỉ huy hành trình vòng quanh thế giới đầu tiên?"
+    answer = "Nhà thám hiểm người Bồ Đào Nha Ma-gien-lăng."
+    alternatives = ["Cô-lum-bố.","Bar-thô-lômêu-di-a.","Ôn-hô-sê-không.",]
+
+    [[Chapter2.questions]]
+    question = "Năm nào nhà thám hiểm Bồ Đào Nha Ma-gien-lăng thực hiện hành trình vòng quanh thế giới?"
+    answer = "Năm 1519."
+    alternatives = ["Năm 1492.","Năm 1607.","Năm 1776.",]
+
+    [[Chapter2.questions]]
+    question = "Tại sao Trái Đất tạo ra lớp vỏ khí bảo vệ mình?"
+    answer = "Do Trái Đất có kích thước và khối lượng đủ lớn, tạo ra lực hút giữ được các chất khí."
+    alternatives = ["Do Trái Đất có lõi kim loại nặng.","Do Trái Đất có nhiều núi lửa hoạt động.","Do Trái Đất có sự ảnh hưởng của nguồn năng lượng mặt trời.",]
+
+    [[Chapter2.questions]]
+    question = "Thời kỳ nào mà hầu hết con người nghĩ rằng Trái Đất là một mặt phẳng?"
+    answer = "Thời Cổ đại."
+    alternatives = ["Thời Trung cổ.","Thời kỳ hiện đại.","Thời kỳ Tiền sử.",]
+
+    [[Chapter2.questions]]
+    question = "Diện tích bề mặt của Trái Đất là bao nhiêu?"
+    answer = "510 triệu km²."
+    alternatives = ["300 triệu km².","700 triệu km².","900 triệu km².",]
+
+    [[Chapter2.questions]]
+    question = "Trục Trái Đất luôn nghiêng so với mặt phẳng quỹ đạo một góc bao nhiêu độ?"
+    answer = "66°33'."
+    alternatives = ["45°.","90°.","30°.",]
+
+    [[Chapter2.questions]]
+    question = "Trái Đất tự quay quanh trục một vòng hết bao lâu thời gian?"
+    answer = "23 giờ 56 phút 04 giây."
+    alternatives = ["24 giờ.","23 giờ 30 phút.","22 giờ 45 phút.",]
+
+    [[Chapter2.questions]]
+    question = "Theo bài học, ngày và đêm luân phiên nhau do điều gì?"
+    answer = "Do sự chuyển động tự quay quanh trục của Trái Đất theo hướng từ tây sang đông."
+    alternatives = ["Do sự chuyển động tự quay quanh trục của Trái Đất theo hướng từ đông sang tây.","Do sự chuyển động của Mặt Trăng xung quanh Trái Đất.","Do sự chuyển động của Mặt Trời xung quanh Trái Đất.",]
+
+    [[Chapter2.questions]]
+    question = "Theo bài, giờ địa phương được định nghĩa dựa trên điều gì?"
+    answer = "Độ cao của Mặt Trời trong ngày."
+    alternatives = ["Độ cao của Mặt Trăng trong đêm.","Độ cao của sao Hỏa trong đêm.","Độ cao của sao Thổ trong ngày.",]
+
+    [[Chapter2.questions]]
+    question = "Theo bài, giờ Quốc tế (GMT) được tính dựa trên điểm nào trên Trái Đất?"
+    answer = "Đường kinh tuyến 0°."
+    alternatives = ["Đường kinh tuyến 180°.","Đường xích đạo.","Đường bắc cực.",]
+
+    [[Chapter2.questions]]
+    question = "Thành phố nào được chọn làm điểm khởi đầu cho việc tính giờ Quốc tế (GMT)?"
+    answer = "Luân Đôn."
+    alternatives = ["Hà Nội.","Tokyo.","Sydney.",]
+
+    [[Chapter2.questions]]
+    question = "Sự lệch hướng chuyển động của vật thể trên Trái Đất được gọi là gì?"
+    answer = "Lực Cô-ri-ô-lít."
+    alternatives = ["Lực Nê-ton.","Lực Địa trọng.","Lực Ma-giêng.",]
+
+    [[Chapter2.questions]]
+    question = "Ai là nhà toán học, vật lí học người Pháp đã giải thích hiện tượng lệch hướng chuyển động của vật thể khi chuyển động trên Trái Đất?"
+    answer = "Cô-ri-ô-lít."
+    alternatives = ["Newton.","Einstein.","Galileo.",]
+
+    [[Chapter2.questions]]
+    question = "Năm nào Cô-ri-ô-lít đã giải thích hiện tượng lệch hướng chuyển động của vật thể khi chuyển động trên Trái Đất?"
+    answer = "Năm 1835."
+    alternatives = ["Năm 1700.","Năm 1900.","Năm 2000.",]
+
+    [[Chapter2.questions]]
+    question = "Cô-ri-ô-lít được biết đến là người nước nào?"
+    answer = "Pháp."
+    alternatives = ["Anh.","Đức.","Ý.",]
+
+    [[Chapter2.questions]]
+    question = "Trái Đất có dạng gì nên luôn chỉ được chiếu sáng một nửa vào một thời điểm nhất định?"
+    answer = "Khối cầu."
+    alternatives = ["Hình trụ.","Hình vuông.","Hình chữ nhật.",]
+
+    [[Chapter2.questions]]
+    question = "Trái Đất chuyển động một vòng quanh Mặt Trời mất bao lâu?"
+    answer = "365 ngày 6 giờ."
+    alternatives = ["365 ngày.","366 ngày.","360 ngày.",]
+
+    [[Chapter2.questions]]
+    question = "Trục Trái Đất luôn nghiêng so với mặt phẳng quỹ đạo một góc bao nhiêu độ?"
+    answer = "Khoảng 66°33′."
+    alternatives = ["45°.","90°.","30°.",]
+
+    [[Chapter2.questions]]
+    question = "Thời gian của một năm nhuận là bao nhiêu ngày?"
+    answer = "366 ngày."
+    alternatives = ["365 ngày.","360 ngày.","367 ngày.",]
+
+    [[Chapter2.questions]]
+    question = "Mùa nào sẽ xảy ra ở bán cầu khi đó bán cầu đó ngả về phía Mặt Trời?"
+    answer = "Mùa hè."
+    alternatives = ["Mùa xuân.","Mùa thu.","Mùa đông.",]
+
+    [[Chapter2.questions]]
+    question = "Mùa nào sẽ xảy ra ở bán cầu khi đó bán cầu đó không ngả về phía Mặt Trời?"
+    answer = "Mùa đông."
+    alternatives = ["Mùa hè.","Mùa xuân.","Mùa thu.",]
+
+    [[Chapter2.questions]]
+    question = "Ở các vĩ độ cao (đới lạnh) quanh năm có khí hậu như thế nào?"
+    answer = "Lạnh."
+    alternatives = ["Nóng.","Ôn hoà.","Khô hanh.",]
+
+    [[Chapter2.questions]]
+    question = "Ở các vĩ độ thấp (đới nóng) quanh năm có khí hậu như thế nào?"
+    answer = "Nóng."
+    alternatives = ["Lạnh.","Ôn hoà.","Khô hanh.",]
+
+    [[Chapter2.questions]]
+    question = "Ở các vĩ độ trung bình (đới ôn hoà) một năm được chia thành bao nhiêu mùa?"
+    answer = "4 mùa: xuân, hạ, thu, đông."
+    alternatives = ["2 mùa: mùa khô và mùa mưa.","3 mùa: mùa lạnh, mùa nóng và mùa mưa.","5 mùa: mùa xuân, mùa hạ, mùa thu, mùa đông, và mùa mưa.",]
+
+    [[Chapter2.questions]]
+    question = "Trong quá trình chuyển động quanh Mặt Trời, độ dài thời gian ban ngày và ban đêm có sự thay đổi không?"
+    answer = "Có, có sự thay đổi."
+    alternatives = ["Không, không có sự thay đổi.","Chỉ có sự thay đổi ở các vĩ độ cao.","Chỉ có sự thay đổi ở các vĩ độ thấp.",]
+
+    [[Chapter2.questions]]
+    question = "Ở xích đạo, độ dài thời gian ban ngày và ban đêm là bao nhiêu?"
+    answer = "Bằng nhau."
+    alternatives = ["Ngắn hơn ban ngày.","Dài hơn ban ngày.","Phụ thuộc vào mùa.",]
+
+    [[Chapter2.questions]]
+    question = "Trong năm, ở cực có thời gian nào là ngày và thời gian nào là đêm?"
+    answer = "6 tháng là ngày và 6 tháng là đêm."
+    alternatives = ["12 tháng đều là ngày.","12 tháng đều là đêm.","4 tháng là ngày và 8 tháng là đêm.",]
+
+    [[Chapter2.questions]]
+    question = "La bàn được cấu tạo từ những bộ phận nào?"
+    answer = "Kim nam châm và vòng chia độ."
+    alternatives = ["Đồng hồ và cửa sổ.","Đèn và bình nước.","Thước đo và bút chì.",]
+
+    [[Chapter2.questions]]
+    question = "Trên vòng chia độ của la bàn, hướng bắc được ghi ở số độ nào?"
+    answer = "0° (hoặc 360°)."
+    alternatives = ["90°.","180°.","270°.",]
+
+    [[Chapter2.questions]]
+    question = "Khi sử dụng la bàn, tại sao cần đặt la bàn thẳng bằng trên mặt phẳng?"
+    answer = "Để tránh ảnh hưởng từ các vật bằng kim loại có thể làm kim nam châm của la bàn."
+    alternatives = ["Để kim nam châm luôn quay về hướng bắc.","Để kim nam châm không quay được.","Để dễ dàng sử dụng la bàn.",]
+
+    [[Chapter2.questions]]
+    question = "Khi sử dụng la bàn, để xác định hướng bắc - nam, ta phải làm gì?"
+    answer = "Mở chốt hãm cho kim chuyển động, đến khi kim đứng yên."
+    alternatives = ["Đẩy mạnh kim nam châm.","Đưa la bàn vào nước.","Quay la bàn nhiều vòng.",]
+
+    [[Chapter2.questions]]
+    question = "Ứng dụng la bàn trên điện thoại thông minh hoạt động như thế nào?"
+    answer = "Tương tự như la bàn cầm tay, dựa vào cảm biến từ điện thoại để xác định phương hướng."
+    alternatives = ["Chỉ hoạt động khi có kết nối Internet.","Cần có pin dự phòng để sử dụng.","Yêu cầu cài đặt thêm ứng dụng bổ sung.",]
+
+    [[Chapter2.questions]]
+    question = "Theo bài học, phương hướng của sao Bắc Cực trên bầu trời thường được sử dụng để xác định hướng nào?"
+    answer = "Hướng bắc."
+    alternatives = ["Hướng nam.","Hướng đông.","Hướng tây.",]
+
+    [[Chapter2.questions]]
+    question = "Cách xác định phương hướng bằng quan sát Mặt Trời là gì?"
+    answer = "Dựa vào hướng Mặt Trời mọc và lặn: Mặt Trời mọc ở hướng đông và lặn ở hướng tây."
+    alternatives = ["Dựa vào hướng Mặt Trăng.","Dựa vào hướng sao Bắc Cực.","Dựa vào hướng sao Chìm.",]
+
+    [[Chapter2.questions]]
+    question = "Theo bài, người ta có thể dùng gì để xác định phương hướng ngoài thực tế?"
+    answer = "Quan sát các hiện tượng tự nhiên như hướng Mặt Trời mọc và lặn, hướng chim bay, hướng hoa hướng dương,..."
+    alternatives = ["Chỉ dùng la bàn.","Chỉ dùng đồng hồ.","Chỉ dùng điện thoại thông minh.",]
+
+    [[Chapter2.questions]]
+    question = "Phương pháp nào cho phép xác định phương hướng một cách tương đối theo bài học?"
+    answer = "Quan sát các hiện tượng tự nhiên như hướng Mặt Trời mọc và lặn, hướng chim bay, hướng hoa hướng dương,..."
+    alternatives = ["Chỉ dùng la bàn.","Chỉ dùng điện thoại thông minh.","Chỉ dùng đồng hồ.",]
+
+    [[Chapter2.questions]]
+    question = "Trong bài, người ta dùng các hiện tượng tự nhiên nào để xác định phương hướng?"
+    answer = "Hướng Mặt Trời mọc và lặn, hướng chim bay, hướng hoa hướng dương."
+    alternatives = ["Hướng Mặt Trăng mọc và lặn.","Hướng sao Bắc Cực.","Hướng sao Chìm.",]
+
+[Chapter3]
+label = "Địa lý - Chương 3: Cấu tạo của Trái Đất. Vỏ Trái Đất"
+
+    [[Chapter3.questions]]
+    question = "Trái Đất được cấu tạo bởi bao nhiêu lớp?"
+    answer = "Ba lớp."
+    alternatives = ["Đúng 5 lớp.","Đúng 2 lớp.","Đúng 4 lớp.",]
+
+    [[Chapter3.questions]]
+    question = "Ba lớp cấu tạo bên trong của Trái Đất là gì?"
+    answer = "Vỏ Trái Đất, man-ti và nhân Trái Đất."
+    alternatives = ["Vỏ Trái Đất, thanh nhôm và nhân đất sét.","Vỏ Trái Đất, dây chuyền và kim cương.","Vỏ Trái Đất, nước và không khí.",]
+
+    [[Chapter3.questions]]
+    question = "Phương pháp nào được sử dụng để nghiên cứu cấu trúc bên trong của Trái Đất?"
+    answer = "Phương pháp địa chấn."
+    alternatives = ["Phương pháp quan sát từ vệ tinh.","Phương pháp nghiên cứu từ mẫu đất.","Phương pháp thăm dò trực tiếp bằng công cụ khoan đất.",]
+
+    [[Chapter3.questions]]
+    question = "Vỏ Trái Đất được cấu tạo bởi những gì?"
+    answer = "Các địa mảng nằm kề nhau."
+    alternatives = ["Đá và cát.","Thạch anh và amiang.","Than và dầu mỏ.",]
+
+    [[Chapter3.questions]]
+    question = "Tại sao các địa mảng di chuyển?"
+    answer = "Do tác động của vật chất nóng chảy (mac-ma) trong lớp man-ti."
+    alternatives = ["Do tác động của người mặc ma.","Do tác động của hạt nhân nguyên tử.","Do tác động của sự gió mùa.",]
+
+    [[Chapter3.questions]]
+    question = "Các địa mảng có thể xô vào nhau hoặc tách xa nhau do điều gì?"
+    answer = "Do tác động của vật chất nóng chảy (mac-ma) trong lớp man-ti."
+    alternatives = ["Do tác động của con người.","Do tác động của sự biến đổi khí hậu.","Do tác động của động đất.",]
+
+    [[Chapter3.questions]]
+    question = "Ở đới tiếp giáp giữa các mảng kiến tạo, có thể hình thành các hiện tượng gì?"
+    answer = "Các dãy núi, các vực sâu, hiện tượng động đất và núi lửa."
+    alternatives = ["Hình thành biển đảo mới.","Hình thành sa mạc.","Hình thành rừng rậm.",]
+
+    [[Chapter3.questions]]
+    question = "Khi một mảng đại dương và một mảng lục địa xô vào nhau, có thể hình thành điều gì?"
+    answer = "Dãy núi lửa ở rìa mảng lục địa; tạo ra dãy núi cao ở lục địa và vực biển sâu ở đại dương."
+    alternatives = ["Sông lớn.","Vùng đất phẳng.","Vườn quốc gia.",]
+
+    [[Chapter3.questions]]
+    question = "Quá trình nội sinh và quá trình ngoại sinh xảy ra ở đâu?"
+    answer = "Nội sinh xảy ra trong lòng Trái Đất, ngoại sinh xảy ra trên bề mặt Trái Đất."
+    alternatives = ["Nội sinh xảy ra trên bề mặt Trái Đất, ngoại sinh xảy ra trong lòng Trái Đất.","Cả quá trình nội sinh và quá trình ngoại sinh đều xảy ra trên bề mặt Trái Đất.","Nội sinh và ngoại sinh đều xảy ra trong lòng Trái Đất.",]
+
+    [[Chapter3.questions]]
+    question = "Quá trình nội sinh làm gì với các mảng kiến tạo và các lớp đất đá?"
+    answer = "Di chuyển các mảng kiến tạo, nén ép các lớp đất đá, làm cho chúng bị uốn nếp, đứt gãy hoặc đầy vật chất nóng chảy ở dưới sâu ra ngoài mặt đất tạo thành núi lửa, động đất,..."
+    alternatives = ["Làm cho chúng tự nhiên tan biến.","Làm cho chúng trở thành kim loại.","Làm cho chúng tạo ra nhiều nước mắt.",]
+
+    [[Chapter3.questions]]
+    question = "Quá trình ngoại sinh làm gì với các địa hình?"
+    answer = "Phá vỡ, san bằng các địa hình do nội sinh tạo nên, đồng thời cũng tạo ra các dạng địa hình mới."
+    alternatives = ["Làm cho các địa hình trở nên rất sắc nét.","Làm cho các địa hình biến mất hoàn toàn.","Làm cho các địa hình cao hơn.",]
+
+    [[Chapter3.questions]]
+    question = "Tại sao các lớp đất đá ở đới tiếp giáp giữa các địa mảng có thể bị uốn lên thành núi?"
+    answer = "Do các địa mảng có thể xô vào nhau hoặc tách xa nhau."
+    alternatives = ["Do sự bùng nổ của nước dưới đất.","Do sự biến đổi của nguyên tố trong đất.","Do sự tăng trưởng của cây cỏ.",]
+
+    [[Chapter3.questions]]
+    question = "Ở những vùng núi trẻ, tác động của quá trình nào mạnh hơn?"
+    answer = "Tác động của nội sinh mạnh hơn ngoại sinh."
+    alternatives = ["Tác động của ngoại sinh mạnh hơn nội sinh.","Cả nội sinh và ngoại sinh đều không mạnh.","Tác động của nội sinh và ngoại sinh đều tương đương nhau.",]
+
+    [[Chapter3.questions]]
+    question = "Ở những vùng núi già, tác động của quá trình nào mạnh hơn?"
+    answer = "Tác động của ngoại sinh mạnh hơn nội sinh."
+    alternatives = ["Tác động của nội sinh mạnh hơn ngoại sinh.","Cả nội sinh và ngoại sinh đều không mạnh.","Tác động của nội sinh và ngoại sinh đều tương đương nhau.",]
+
+    [[Chapter3.questions]]
+    question = "Núi lửa là hiện tượng gì?"
+    answer = "Núi lửa là hiện tượng khi các dòng mac-ma phun trào lên bề mặt Trái Đất, tạo thành các núi."
+    alternatives = ["Núi lửa là hiện tượng khi núi rung lắc mạnh.","Núi lửa là hiện tượng khi bị sụt lở.","Núi lửa là hiện tượng khi có sự đổi màu đất.",]
+
+    [[Chapter3.questions]]
+    question = "Khi núi lửa có dấu hiệu phun trào, người dân phải làm gì?"
+    answer = "Sơ tán nhanh chóng khỏi khu vực đó."
+    alternatives = ["Ở lại nhà để chờ đợi sự giúp đỡ.","Chạy vào trong hang động.","Xây dựng các công trình chắn bụi.",]
+
+    [[Chapter3.questions]]
+    question = "Động đất là do những yếu tố gì gây ra?"
+    answer = "Động đất chủ yếu do hoạt động của núi lửa, sự dịch chuyển các mảng kiến tạo hoặc sự đứt gãy trong vỏ Trái Đất gây ra."
+    alternatives = ["Động đất chủ yếu do sự thay đổi nhiệt độ.","Động đất chủ yếu do tác động của người dân.","Động đất chủ yếu do sự biến đổi của nguồn nước.",]
+
+    [[Chapter3.questions]]
+    question = "Cường độ động đất được tính bằng thang Rich-te. Động đất có cường độ mạnh nhất được gọi là gì?"
+    answer = "Phá huỷ (2 9 độ): môi trường bị biến đổi hoàn toàn. Rất hiểm khi xảy ra"
+    alternatives = ["Nhẹ (4 – 4,9 độ)","Trung bình (5 – 5,9 độ)","Mạnh (6-6,9 độ)","Cực mạnh (8–8,9 độ)",]
+
+    [[Chapter3.questions]]
+    question = "Núi lửa phun trào gây ra những thiệt hại gì cho vùng lân cận?"
+    answer = "Núi lửa phun trào gây ra thiệt hại như tro bụi và dung nham vùi lấp các thành thị, làng mạc, ruộng nương, gây thiệt hại về người và tài sản."
+    alternatives = ["Núi lửa phun trào gây ra việc tăng mực nước giếng.","Núi lửa phun trào gây ra việc giảm nhiệt độ môi trường.","Núi lửa phun trào gây ra việc tăng sản xuất nông nghiệp.",]
+
+    [[Chapter3.questions]]
+    question = "Trước khi động đất xảy ra, có những dấu hiệu gì?"
+    answer = "Trước khi động đất xảy ra, có những dấu hiệu như mực nước giếng thay đổi, động vật hoảng loạn, và mặt đất rung nhẹ."
+    alternatives = ["Trước khi động đất xảy ra, không có dấu hiệu nào.","Trước khi động đất xảy ra, không gian có mùi khó chịu.","Trước khi động đất xảy ra, thời tiết thường rất mát mẻ.",]
+
+    [[Chapter3.questions]]
+    question = "Núi là dạng địa hình như thế nào?"
+    answer = "Núi là dạng địa hình nhô cao rõ rệt so với mặt bằng xung quanh, có độ cao từ 500 m trở lên, thường có đỉnh nhọn và sườn dốc."
+    alternatives = ["Núi là dạng địa hình thấp với độ cao dưới 200 m.","Núi là dạng địa hình phẳng và rộng lớn.","Núi là dạng địa hình có độ cao từ 200 m đến 500 m.",]
+
+    [[Chapter3.questions]]
+    question = "Địa hình nào có độ cao dưới 200 m so với mực nước biển?"
+    answer = "Đồng bằng là dạng địa hình thấp có độ cao dưới 200 m so với mực nước biển."
+    alternatives = ["Đồi là dạng địa hình nhô cao với độ cao trên 500 m.","Cao nguyên là dạng địa hình cao với độ cao trên 500 m.","Núi là dạng địa hình nhô cao với độ cao trên 500 m.",]
+
+    [[Chapter3.questions]]
+    question = "Khoáng sản là gì?"
+    answer = "Khoáng sản là những khoáng vật và khoáng chất có ích trong tự nhiên nằm trong vỏ Trái Đất mà con người có thể khai thác để sử dụng trong sản xuất và đời sống."
+    alternatives = ["Khoáng sản là các dạng địa hình trên Trái Đất.","Khoáng sản là các nguồn năng lượng tự nhiên.","Khoáng sản là các loại đá tự nhiên có màu sắc đặc biệt.",]
+
+    [[Chapter3.questions]]
+    question = "Khoáng sản nào được sử dụng trong công nghiệp năng lượng?"
+    answer = "Than đá, dầu mỏ là những khoáng sản được sử dụng trong công nghiệp năng lượng."
+    alternatives = ["Đồng, sắt.","Muối mỏ, thạch anh.","Đá vôi, đá granit.",]
+
+    [[Chapter3.questions]]
+    question = "Nguyên liệu cho công nghiệp luyện kim đen và luyện kim màu chủ yếu được tìm thấy ở loại khoáng sản nào?"
+    answer = "Nguyên liệu cho công nghiệp luyện kim đen và luyện kim màu chủ yếu được tìm thấy ở loại khoáng sản kim loại, như sắt, đồng."
+    alternatives = ["Năng lượng.","Muối mỏ, thạch anh.","Phi kim loại.",]
+
+    [[Chapter3.questions]]
+    question = "Khoáng sản làm nguyên liệu để sản xuất phân bón, đồ gốm, sứ, làm vật liệu xây dựng thuộc loại nào?"
+    answer = "Khoáng sản làm nguyên liệu để sản xuất phân bón, đồ gốm, sứ, làm vật liệu xây dựng thuộc loại phi kim loại."
+    alternatives = ["Năng lượng.","Kim loại đen.","Kim loại màu.",]
+
+    [[Chapter3.questions]]
+    question = "Mục đích chính của việc khai thác mỏ khoáng sản là gì?"
+    answer = "Mục đích chính của việc khai thác mỏ khoáng sản là để sử dụng vào mục đích kinh tế, sản xuất và đời sống."
+    alternatives = ["Khai thác mỏ khoáng sản để làm đẹp cảnh quan tự nhiên.","Khai thác mỏ khoáng sản để tạo ra các công trình kiến trúc lớn.","Khai thác mỏ khoáng sản để tạo ra các sản phẩm thủ công mỹ nghệ.",]
+
+    [[Chapter3.questions]]
+    question = "Tại sao cần phải sử dụng khoáng sản một cách hợp lí, hiệu quả?"
+    answer = "Cần phải sử dụng khoáng sản một cách hợp lí, hiệu quả để tránh cạn kiệt tàinguyên khoáng sản và duy trì cân bằng môi trường, đồng thời bảo vệ nguồn tài nguyên cho thế hệ sau."
+    alternatives = [
+    "Để tăng giá trị thương mại của khoáng sản.",
+    "Để giảm chi phí sản xuất.",
+    "Để tạo ra các sản phẩm mới từ khoáng sản.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Các dạng địa hình chính trên Trái Đất bao gồm những loại nào?"
+    answer = "Các dạng địa hình chính trên Trái Đất bao gồm núi, đồi, cao nguyên và đồng bằng."
+    alternatives = [
+    "Rừng, sa mạc, thảo nguyên, đồng bằng.",
+    "Sông, suối, hồ, biển.",
+    "Núi, sông, hồ, sa mạc.",
+    ]
+
+    [[Chapter3.questions]]
+    question = "Tên một số loại khoáng sản là gì?"
+    answer = "Một số loại khoáng sản bao gồm than đá, dầu mỏ, sắt, đồng, thạch anh, muối mỏ, đá vôi."
+    alternatives = [
+    "Nước khoáng, khí thiên nhiên, đồng, thép.",
+    "Vàng, bạc, kim cương, ngọc.",
+    "Đá muối, đá granit, đá xanh, đá sapphire.",
+    ]
+
+[Chapter4]
+label = "Địa lý - Chương 4: Khí hậu và biến đổi khí hậu"
+
+    [[Chapter4.questions]]
+    question = "Khí nào chiếm tỷ lệ lớn nhất trong không khí gần bề mặt đất?"
+    answer = "Oxy"
+    alternatives = [
+    "Nitơ",
+    "Hơi nước",
+    "Khí carbonic"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Tầng nào trong khí quyển được mô tả là nơi sinh ra các hiện tượng thời tiết như mây, mưa, sấm sét?"
+    answer = "Tầng đối lưu"
+    alternatives = [
+    "Lớp ô-dôn",
+    "Tầng bình lưu",
+    "Các tầng cao của khi quyền"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Tầng nào trong khí quyển có nhiệt độ tăng theo độ cao và không khí luôn luôn chuyển động ngang?"
+    answer = "Tầng bình lưu"
+    alternatives = [
+    "Tầng đối lưu",
+    "Lớp ô-dôn",
+    "Các tầng cao của khi quyền"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Khí nào hình thành trên các biển và đại dương và có độ ẩm lớn?"
+    answer = "Khối khí đại dương"
+    alternatives = [
+    "Khối khí nóng",
+    "Khối khí lạnh",
+    "Khối khí lục địa"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Đơn vị đo khí áp là gì và được đo bằng thiết bị gì?"
+    answer = "mb (mi-li-ba), khí áp kế"
+    alternatives = [
+    "m/s, anemometer",
+    "km/h, thermometer",
+    "%, barometer"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Gió Mậu dịch là loại gió có tốc độ và hướng gió nào?"
+    answer = "Tương đối ổn định, hướng tương đối không đổi"
+    alternatives = [
+    "Biến đổi liên tục, hướng không đổi",
+    "Tương đối ổn định, hướng thay đổi liên tục",
+    "Biến đổi liên tục, hướng thay đổi liên tục"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Gió nào thường gây mưa cho khu vực mà nó tác động?"
+    answer = "Gió Tây ôn đới"
+    alternatives = [
+    "Gió Mậu dịch",
+    "Gió Đông cực",
+    "Gió Mùa hè"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Cách nào đo khí áp trên Trái Đất?"
+    answer = "Sử dụng khí áp kế"
+    alternatives = [
+    "Sử dụng anemometer",
+    "Sử dụng thermometer",
+    "Sử dụng barometer"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Khối khí nào hình thành trên các vùng vĩ độ thấp và có nhiệt độ tương đối cao?"
+    answer = "Khối khí nóng"
+    alternatives = [
+    "Khối khí lạnh",
+    "Khối khí đại dương",
+    "Khối khí lục địa"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Thành phần nào chiếm tỷ lệ nhỏ nhất trong không khí gần bề mặt đất?"
+    answer = "Khí carbonic"
+    alternatives = [
+    "Nitơ",
+    "Oxy",
+    "Hơi nước"
+    ]
+
+    [[Chapter4.questions]]
+    question = "Đơn vị đo nhiệt độ không khí phổ biến là gì?"
+    answer = "Độ C (°C)"
+    alternatives = ["Độ F (°F)","Độ K (K)","Độ R (°R)"]
+
+    [[Chapter4.questions]]
+    question = "Cách nào đo nhiệt độ không khí?"
+    answer = "Sử dụng nhiệt kế"
+    alternatives = ["Sử dụng anemometer","Sử dụng thermometer","Sử dụng barometer"]
+
+    [[Chapter4.questions]]
+    question = "Vì sao không khí trên các vùng vĩ độ thấp nóng hơn không khí ở các vùng vĩ độ cao?"
+    answer = "Do nhận được nhiều nhiệt từ góc chiếu của tia sáng mặt trời lớn hơn"
+    alternatives = ["Do nhận được ít nhiệt từ góc chiếu của tia sáng mặt trời nhỏ hơn","Do nhận được nhiều nhiệt từ góc chiếu của tia sáng mặt trời nhỏ hơn","Do nhận được ít nhiệt từ góc chiếu của tia sáng mặt trời lớn hơn"]
+
+    [[Chapter4.questions]]
+    question = "Đơn vị đo độ ẩm không khí là gì?"
+    answer = "%"
+    alternatives = ["mb (mi-li-ba)","m/s","km/h"]
+
+    [[Chapter4.questions]]
+    question = "Hiện tượng gì xảy ra khi không khí đã bão hoà hơi nước nhưng vẫn tiếp tục được bổ sung hơi nước hoặc bị lạnh đi?"
+    answer = "Hơi nước ngưng tụ thành các hạt nước nhỏ, nhẹ tạo thành mây"
+    alternatives = ["Hơi nước bay đi xa","Hơi nước biến thành hơi khí","Hơi nước hòa tan vào không khí"]
+
+    [[Chapter4.questions]]
+    question = "Lượng mưa trung bình năm phân bố không đều như thế nào trên bề mặt Trái Đất?"
+    answer = "Khu vực Xích đạo có lượng mưa cao, khu vực chí tuyến và vùng cực có lượng mưa thấp"
+    alternatives = ["Khu vực Xích đạo có lượng mưa thấp, khu vực chí tuyến và vùng cực có lượng mưa cao","Tất cả khu vực có lượng mưa bằng nhau","Lượng mưa phân bố đều trên toàn cầu"]
+
+    [[Chapter4.questions]]
+    question = "Cách tính lượng mưa trung bình năm của một địa phương?"
+    answer = "Lấy tổng lượng mưa nhiều năm, sau đó chia cho số năm"
+    alternatives = ["Lấy lượng mưa nhiều nhất trong năm","Lấy lượng mưa của một năm cụ thể","Lấy trung bình của lượng mưa của nhiều năm"]
+
+    [[Chapter4.questions]]
+    question = "Mặt Trời cung cấp ánh sáng và nhiệt cho Trái Đất bằng cách nào?"
+    answer = "Các tia sáng mặt trời đi qua khí quyền"
+    alternatives = ["Các tia sáng mặt trời đi qua nước biển","Các tia sáng mặt trời đi qua không gian","Các tia sáng mặt trời đi qua mặt đất"]
+
+    [[Chapter4.questions]]
+    question = "Sự thay đổi nhiệt độ không khí trên bề mặt Trái Đất theo vĩ độ được mô tả như thế nào?"
+    answer = "Không khí ở các vùng vĩ độ thấp nóng hơn không khí ở các vùng vĩ độ cao"
+    alternatives = ["Không khí ở các vùng vĩ độ cao nóng hơn không khí ở các vùng vĩ độ thấp","Không khí ở các vùng vĩ độ cao và thấp có nhiệt độ bằng nhau","Không khí ở các vùng vĩ độ thấp và cao không có sự khác biệt về nhiệt độ"]
+
+    [[Chapter4.questions]]
+    question = "Thời tiết được xác định bằng những yếu tố nào?"
+    answer = "Nhiệt độ, độ ẩm, mưa, mây, gió"
+    alternatives = ["Nhiệt độ, ánh nắng, mưa, gió, tuyết","Nhiệt độ, độ ẩm, mây, gió, ánh sáng","Nhiệt độ, lượng mưa, mây, gió, sương mù"]
+
+    [[Chapter4.questions]]
+    question = "Khái niệm của khí hậu là gì?"
+    answer = "Tổng hợp các yếu tố thời tiết của một nơi trong một thời gian dài và đã trở thành quy luật"
+    alternatives = ["Trạng thái của khí quyền tại một thời điểm và khu vực cụ thể","Tình trạng khí quyền hiện tại","Tổng hợp của khí quyền tại một thời điểm"]
+
+    [[Chapter4.questions]]
+    question = "Các đới khí hậu trên Trái Đất bao gồm bao nhiêu loại?"
+    answer = "Năm"
+    alternatives = ["Bốn","Sáu","Bảy"]
+
+    [[Chapter4.questions]]
+    question = "Đới nóng (nhiệt đới) có nhiệt độ trung bình năm thấp nhất là bao nhiêu?"
+    answer = "20°C"
+    alternatives = ["15°C","25°C","30°C"]
+
+    [[Chapter4.questions]]
+    question = "Các mùa trong năm rất rõ rệt ở đâu?"
+    answer = "Đới ôn hoà (ôn đới)"
+    alternatives = ["Đới lạnh (hàn đới)","Đới nóng (nhiệt đới)","Cả hai đới ôn hoà và lạnh"]
+
+    [[Chapter4.questions]]
+    question = "Biến đổi khí hậu là sự thay đổi gì?"
+    answer = "Sự thay đổi của khí hậu trong một khoảng thời gian dài do tác động của các điều kiện tự nhiên và hoạt động của con người"
+    alternatives = ["Sự thay đổi của khí hậu trong một khoảng thời gian ngắn","Sự thay đổi của khí hậu do tác động của con người","Sự thay đổi của khí hậu do tác động của tự nhiên"]
+
+    [[Chapter4.questions]]
+    question = "Biến đổi khí hậu có biểu hiện như thế nào?"
+    answer = "Sự nóng lên toàn cầu, mực nước biển dâng và gia tăng các hiện tượng khí tượng thuỷ văn cực đoan"
+    alternatives = ["Sự lạnh đi toàn cầu, mực nước biển giảm và giảm các hiện tượng khí tượng thuỷ văn cực đoan","Sự nóng lên toàn cầu, mực nước biển giảm và giảm các hiện tượng khí tượng thuỷ văn cực đoan","Sự lạnh đi toàn cầu, mực nước biển dâng và gia tăng các hiện tượng khí tượng thuỷ văn cực đoan"]
+
+    [[Chapter4.questions]]
+    question = "Cách ứng phó với biến đổi khí hậu bao gồm những biện pháp nào?"
+    answer = "Tăng cường áp dụng những thành tựu của khoa học công nghệ vào cuộc sống, tích cực tuyên truyền về bảo vệ môi trường và phòng chống thiên tai cho cộng đồng dân cư"
+    alternatives = ["Tăng cường sử dụng năng lượng hóa thạch, tiêu thụ nhiều nước hơn","Tăng cường xây dựng nhà cửa cao tầng","Tăng cường sử dụng các loại phương tiện cá nhân"]
+
+[Chapter5]
+label = "Địa lý - Chương 5: Nước trên Trái Đất"
+
+    [[Chapter5.questions]]
+    question = "Thuỷ quyền bao gồm những thành phần nào?"
+    answer = "Nước ở các đại dương, biển, sông, hồ, đầm lầy, nước dưới đất (nước ngầm), tuyết, băng và hơi nước trong khi quyền"
+    alternatives = ["Nước ở các đại dương, biển, sông, hồ, đầm lầy, nước dưới đất (nước ngầm) và hơi nước trong khi quyền","Nước ở các đại dương, biển, sông, hồ, đầm lầy, nước dưới đất (nước ngầm), tuyết và băng","Nước ở các đại dương, biển, sông, hồ, đầm lầy, nước dưới đất (nước ngầm), băng và hơi nước trong khi quyền"]
+
+    [[Chapter5.questions]]
+    question = "Vòng tuần hoàn lớn của nước là gì?"
+    answer = "Nước luôn di chuyển giữa đại dương, lục địa và không khí"
+    alternatives = ["Nước luôn ở trong một vị trí cố định","Nước chỉ di chuyển giữa các đại dương và không khí","Nước chỉ di chuyển giữa các lục địa và không khí"]
+
+    [[Chapter5.questions]]
+    question = "Quá trình biến đổi trạng thái của nước gồm những gì?"
+    answer = "Bốc hơi, ngưng tụ, tan chảy, đông đặc"
+    alternatives = ["Bay hơi, ngưng tụ, tan chảy, đông đặc","Bốc hơi, rơi xuống, tan chảy, đông đặc","Bốc hơi, ngưng tụ, rã chuyển, đông đặc"]
+
+    [[Chapter5.questions]]
+    question = "Sông là gì?"
+    answer = "Dòng chảy thường xuyên tương đối lớn trên bề mặt lục địa và đảo, được các nguồn nước mưa, nước ngầm, nước băng tuyết tan nuôi dưỡng"
+    alternatives = ["Dòng chảy nhỏ trên bề mặt lục địa và đảo, được các nguồn nước mưa, nước ngầm, nước băng tuyết tan nuôi dưỡng","Dòng chảy thường xuyên tương đối lớn trên bề mặt lục địa và đảo, không nhận nước từ nước mưa, nước ngầm, nước băng tuyết tan"]
+
+    [[Chapter5.questions]]
+    question = "Mùa lũ của sông thường xảy ra khi nào?"
+    answer = "Mùa lũ trùng với mùa mưa hoặc mùa xuân tùy theo nguồn cung cấp nước chủ yếu của sông"
+    alternatives = ["Mùa lũ trùng với mùa khô","Mùa lũ trùng với mùa thu","Mùa lũ trùng với mùa đông"]
+
+    [[Chapter5.questions]]
+    question = "Hồ là gì?"
+    answer = "Vùng trũng chứa nước trên bề mặt Trái Đất, không thông với biển"
+    alternatives = ["Vùng đất không thông gió","Vùng trũng chứa nước trên bề mặt Trái Đất, thông với biển","Vùng cao suy thoái do đất bị xói mòn"]
+
+    [[Chapter5.questions]]
+    question = "Sử dụng tổng hợp nước sông, hồ mang lại điều gì?"
+    answer = "Hiệu quả kinh tế cao, hạn chế sự lãng phí nước và góp phần bảo vệ tài nguyên nước"
+    alternatives = ["Sự lãng phí nước và góp phần làm ô nhiễm nguồn nước","Không góp phần vào việc bảo vệ tài nguyên nước","Chỉ tăng lãng phí nước và không góp phần vào việc bảo vệ tài nguyên nước"]
+
+    [[Chapter5.questions]]
+    question = "Nước ngầm được tạo nên chủ yếu bởi những nguồn nước nào?"
+    answer = "Nước mưa, nước sông, nước hồ thấm xuống đất"
+    alternatives = ["Nước sông và nước biển thấm xuống đất","Nước biển thấm xuống đất","Nước mưa thấm xuống đất"]
+
+    [[Chapter5.questions]]
+    question = "Băng hà góp phần vào việc điều hoà nhiệt độ trên Trái Đất như thế nào?"
+    answer = "Băng hà giúp điều hoà nhiệt độ trên Trái Đất"
+    alternatives = ["Băng hà không có tác dụng gì đặc biệt trong việc điều hoà nhiệt độ trên Trái Đất","Băng hà làm tăng nhiệt độ trên Trái Đất","Băng hà làm giảm nhiệt độ trên Trái Đất"]
+
+    [[Chapter5.questions]]
+    question = "Diện tích lục địa được bao phủ bởi băng hà chiếm bao nhiêu phần trăm?"
+    answer = "10%"
+    alternatives = ["20%","5%","15%"]
+
+    [[Chapter5.questions]]
+    question = "Băng hà chiếm gần bao nhiêu phần trăm trữ lượng nước ngọt của Trái Đất?"
+    answer = "Gần 70%"
+    alternatives = ["Gần 50%","Gần 30%","Gần 80%"]
+
+    [[Chapter5.questions]]
+    question = "Băng hà có phải là nguồn cung cấp nước ngọt quan trọng không?"
+    answer = "Có, băng hà chiếm gần 70% trữ lượng nước ngọt của Trái Đất"
+    alternatives = ["Không, băng hà không đóng vai trò quan trọng trong cung cấp nước ngọt","Có, băng hà chiếm gần 30% trữ lượng nước ngọt của Trái Đất","Không, băng hà chỉ chiếm một phần nhỏ trong trữ lượng nước ngọt của Trái Đất"]
+
+    [[Chapter5.questions]]
+    question = "Sông A-ma-dôn được gọi là 'sông biển' vì điều gì?"
+    answer = "Vào mùa lũ, chỗ rộng nhất của sông có thể lên đến hơn 40 km"
+    alternatives = ["Sông này có nước mặn giống biển","Sông này có diện tích lưu vực rộng nhất","Sông này nằm gần biển"]
+
+    [[Chapter5.questions]]
+    question = "Đại dương thế giới bao phủ bao nhiêu phần trăm diện tích bề mặt Trái Đất?"
+    answer = "Hơn 70%"
+    alternatives = ["50%","90%","30%"]
+
+    [[Chapter5.questions]]
+    question = "Độ muối trung bình của nước đại dương là bao nhiêu phần trăm?"
+    answer = "35%"
+    alternatives = ["50%","20%","10%"]
+
+    [[Chapter5.questions]]
+    question = "Nhiệt độ trung bình bề mặt toàn bộ đại dương thế giới là khoảng bao nhiêu độ C?"
+    answer = "17°C"
+    alternatives = ["10°C","25°C","30°C"]
+
+    [[Chapter5.questions]]
+    question = "Vùng biển nhiệt đới có độ muối trung bình dao động trong khoảng bao nhiêu phần trăm?"
+    answer = "35-36%"
+    alternatives = ["30-32%","40-42%","20-25%"]
+
+    [[Chapter5.questions]]
+    question = "Hiện tượng nào được hình thành do tác động của gió?"
+    answer = "Sóng biển"
+    alternatives = ["Thuỷ triều","Dòng biển","Động đất"]
+
+    [[Chapter5.questions]]
+    question = "Sóng thần là hiện tượng gì?"
+    answer = "Sóng biển dài đơn độc, di chuyển nhanh, có thể cao trên 20 m, gây thiệt hại nặng nề về người và tài sản ở vùng ven biển"
+    alternatives = ["Sóng biển dài đơn độc, di chuyển nhanh, gây thiệt hại nặng nề về người và tài sản ở vùng ven biển","Sóng biển thường xuyên","Sóng biển gây ra bởi cơn gió lớn"]
+
+    [[Chapter5.questions]]
+    question = "Hiện tượng nào hình thành do lực hút của Mặt Trăng và Mặt Trời cùng với lực li tâm của Trái Đất?"
+    answer = "Thuỷ triều"
+    alternatives = ["Sóng biển","Dòng biển","Động đất"]
+
+    [[Chapter5.questions]]
+    question = "Thuỷ triều lớn nhất (triều cường) và nhỏ nhất (triều kém) xảy ra vào những ngày nào?"
+    answer = "Triều cường là các ngày trăng tròn hoặc không trăng; triều kém là các ngày trăng khuyết"
+    alternatives = ["Triều cường là các ngày trăng khuyết; triều kém là các ngày trăng tròn hoặc không trăng","Cả hai hiện tượng này xảy ra vào các ngày trăng tròn","Cả hai hiện tượng này xảy ra vào các ngày trăng khuyết"]
+
+    [[Chapter5.questions]]
+    question = "Có bao nhiêu loại dòng biển?"
+    answer = "Hai loại: dòng biển nóng và dòng biển lạnh"
+    alternatives = ["Ba loại: dòng biển nóng, dòng biển lạnh và dòng biển mát","Một loại: dòng biển nóng","Ba loại: dòng biển nóng, dòng biển lạnh và dòng biển nguội"]
+
+    [[Chapter5.questions]]
+    question = "Dòng biển nóng hay lạnh là so với điều gì?"
+    answer = "So với nhiệt độ nước biển xung quanh"
+    alternatives = ["So với độ muối nước biển","So với môi trường xung quanh","So với độ sâu của biển"]
+
+[Chapter6]
+label = "Địa lý - Chương 6: Đất và sinh vật trên Trái Đất"
+
+    [[Chapter6.questions]]
+    question = "Đất được đặc trưng bởi độ gì?"
+    answer = "Độ phi"
+    alternatives = [
+    "Độ tan",
+    "Độ chảy",
+    "Độ linh hoạt"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Thành phần nào chiếm tỉ lệ cao nhất trong đất?"
+    answer = "Hạt khoảng"
+    alternatives = [
+    "Không khí",
+    "Nước",
+    "Chất hữu cơ"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Đất hình thành do tác động của bao nhiêu nhân tố?"
+    answer = "Năm nhân tố"
+    alternatives = [
+    "Bốn nhân tố",
+    "Sáu nhân tố",
+    "Bảy nhân tố"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Nhân tố nào là nguồn gốc sinh ra thành phần khoáng trong đất?"
+    answer = "Đá mẹ"
+    alternatives = [
+    "Khí hậu",
+    "Sinh vật",
+    "Địa hình"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Đất đen thảo nguyên ôn đới được mô tả như thế nào?"
+    answer = "Đất giàu mùn, có màu đen đặc trưng và là loại đất tốt nhất thế giới"
+    alternatives = [
+    "Đất có đặc tính chua và nghèo mùn, ít dinh dưỡng",
+    "Đất có màu đỏ vàng, tầng đất dày, tương đối chua và ít dinh dưỡng",
+    "Đất có màu đen, chứa nhiều cát và khoáng chất"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Đất pốt đôn có đặc tính như thế nào?"
+    answer = "Đất có đặc tính chua và nghèo mùn, ít dinh dưỡng"
+    alternatives = [
+    "Đất giàu mùn, có màu đen đặc trưng và là loại đất tốt nhất thế giới",
+    "Đất có màu đỏ vàng, tầng đất dày, tương đối chua và ít dinh dưỡng",
+    "Đất có màu đen, chứa nhiều cát và khoáng chất"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Đất đỏ vàng nhiệt đới có đặc điểm gì?"
+    answer = "Đất có màu đỏ vàng, tầng đất dày, tương đối chua và ít dinh dưỡng"
+    alternatives = [
+    "Đất giàu mùn, có màu đen đặc trưng và là loại đất tốt nhất thế giới",
+    "Đất có đặc tính chua và nghèo mùn, ít dinh dưỡng",
+    "Đất có màu đen, chứa nhiều cát và khoáng chất"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Nhân tố nào không phải làm tăng độ phì cho đất?"
+    answer = "Khai thác tài nguyên"
+    alternatives = [
+    "Phủ xanh đất trống đồi núi trọc",
+    "Sử dụng thuốc trừ sâu",
+    "Phát triển nông nghiệp bền vững"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Tỉ lệ của thành phần không khí trong đất là bao nhiêu phần trăm?"
+    answer = "25%"
+    alternatives = [
+    "50%",
+    "10%",
+    "5%"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Tỉ lệ của thành phần chất hữu cơ trong đất là bao nhiêu phần trăm?"
+    answer = "5%"
+    alternatives = [
+    "50%",
+    "10%",
+    "25%"
+    ]
+
+    [[Chapter6.questions]]
+    question = "Sự đa dạng của sinh vật dưới đại dương phụ thuộc vào những yếu tố nào?"
+    answer = "Nhiệt độ, độ muối, áp suất, ánh sáng, nồng độ oxy"
+    alternatives = ["Nhiệt độ, độ muối, độ pH","Độ sâu, áp suất, độ pH, ánh sáng","Áp suất, lượng mưa, nhiệt độ, nồng độ CO2"]
+
+    [[Chapter6.questions]]
+    question = "Ở đâu có rừng mưa nhiệt đới?"
+    answer = "Ở đới nóng"
+    alternatives = ["Ở đới ôn hoà","Ở đới lạnh","Ở sa mạc"]
+
+    [[Chapter6.questions]]
+    question = "Trong rừng mưa nhiệt đới, loài nào được mô tả là leo trèo giỏi?"
+    answer = "Nhiều loài"
+    alternatives = ["Chim","Thú","Côn trùng"]
+
+    [[Chapter6.questions]]
+    question = "Động vật trong rừng mưa nhiệt đới chủ yếu ăn gì?"
+    answer = "Nhiều loài"
+    alternatives = ["Thú","Chim","Côn trùng"]
+
+    [[Chapter6.questions]]
+    question = "Trong rừng mưa nhiệt đới, có nhiều loài ăn thịt như?"
+    answer = "Sư tử, linh cầu"
+    alternatives = ["Gấu trắng, ngỗng trời","Rắn, bọ cạp","Lạc đà, sư tử"]
+
+    [[Chapter6.questions]]
+    question = "Ở đâu có các loài động vật thích nghi với khí hậu lạnh bằng cách ngủ đông hay di cư theo mùa?"
+    answer = "Ở đới lạnh"
+    alternatives = ["Ở đới nóng","Ở đới ôn hoà","Ở sa mạc"]
+
+    [[Chapter6.questions]]
+    question = "Đặc điểm của sinh vật sống ở sa mạc là gì?"
+    answer = "Chịu được nóng và khô hạn"
+    alternatives = ["Thích nghi với nhiệt độ thấp","Thích nghi với lượng mưa nhiều","Chịu được lạnh và ẩm ướt"]
+
+    [[Chapter6.questions]]
+    question = "Sinh vật ở đại dương và lục địa có điểm chung là gì?"
+    answer = "Sự phong phú và đa dạng"
+    alternatives = ["Sự đặc biệt và hiếm có","Sự giống nhau về hình thức","Sự sống trong môi trường khắc nghiệt"]
+
+    [[Chapter6.questions]]
+    question = "Đâu là yếu tố không ảnh hưởng nhiều đến sự đa dạng của sinh vật dưới đại dương?"
+    answer = "Lượng mưa"
+    alternatives = ["Nhiệt độ","Áp suất","Độ muối"]
+
+    [[Chapter6.questions]]
+    question = "Trong rừng mưa nhiệt đới, loài nào không phải là loài ăn cỏ, chạy nhanh như ngựa?"
+    answer = "Sư tử"
+    alternatives = ["Xa van","Thảo nguyên","Linh dương"]
+
+    [[Chapter6.questions]]
+    question = "Rừng nhiệt đới có đặc điểm nào sau đây?"
+    answer = "Nhiệt độ trung bình năm trên 21°C, lượng mưa trung bình năm trên 1700 mm"
+    alternatives = ["Nhiệt độ trung bình năm dưới 10°C, lượng mưa trung bình năm trên 500 mm","Nhiệt độ trung bình năm trên 30°C, lượng mưa trung bình năm dưới 500 mm","Nhiệt độ trung bình năm trên 15°C, lượng mưa trung bình năm trên 1000 mm"]
+
+    [[Chapter6.questions]]
+    question = "Rừng nhiệt đới chủ yếu phân bố ở đâu?"
+    answer = "Vùng Xích đạo và vành đai nhiệt đới của cả bán cầu Bắc và bán cầu Nam"
+    alternatives = ["Vùng cận Xích đạo","Vùng cận cực","Vùng biển"]
+
+    [[Chapter6.questions]]
+    question = "Rừng mưa nhiệt đới được hình thành ở nơi có điều kiện nào?"
+    answer = "Mưa nhiều quanh năm"
+    alternatives = ["Mưa ít quanh năm","Mưa mùa hè","Mưa mùa đông"]
+
+    [[Chapter6.questions]]
+    question = "Rừng nhiệt đới gió mùa phát triển ở những nơi nào?"
+    answer = "Có một mùa mưa và một mùa khô rõ rệt"
+    alternatives = ["Có hai mùa mưa","Có nhiều mùa mưa","Có mùa mưa liên tục"]
+
+    [[Chapter6.questions]]
+    question = "Rừng nhiệt đới có vai trò quan trọng gì đối với Trái Đất?"
+    answer = "Ổn định khí hậu và bảo tồn đa dạng sinh học"
+    alternatives = ["Sản xuất nông nghiệp","Chống lũ lụt","Xử lý ô nhiễm môi trường"]
+
+    [[Chapter6.questions]]
+    question = "Diện tích rừng nhiệt đới mất đi mỗi năm ở mức nào?"
+    answer = "130 nghìn km²"
+    alternatives = ["50 nghìn km²","200 nghìn km²","500 nghìn km²"]
+
+    [[Chapter6.questions]]
+    question = "Rừng A-ma-dôn đóng vai trò gì đối với hành tinh?"
+    answer = "Tạo ra khoảng 20% lượng oxy của Trái Đất và được coi là lá phổi của hành tinh"
+    alternatives = ["Là nguồn gốc của dầu mỏ","Là nguồn nước sạch cho con người","Là khu vực du lịch nổi tiếng"]
+
+    [[Chapter6.questions]]
+    question = "Vụ cháy rừng ở rừng A-ma-dôn năm 2019 gây ra những hậu quả gì?"
+    answer = "Tác động rất lớn đến biến đổi khí hậu, thảm hoạ môi trường"
+    alternatives = ["Chỉ gây thiệt hại nhỏ tại địa phương","Gây ra những thay đổi tích cực cho môi trường","Không gây ảnh hưởng đến biến đổi khí hậu"]
+
+    [[Chapter6.questions]]
+    question = "Cần làm gì để bảo vệ và phát triển rừng nhiệt đới?"
+    answer = "Sử dụng sản phẩm từ rừng một cách tiết kiệm và hợp lý, bảo vệ và phát triển rừng"
+    alternatives = ["Chặt phá rừng để lấy gỗ","Khai thác dầu mỏ từ rừng","Xây dựng các khu công nghiệp trong rừng"]
+
+    [[Chapter6.questions]]
+    question = "Đặc điểm chính của đới nào là có khí hậu mang tinh trung gian giữa đới nóng và đới lạnh?"
+    answer = "Đới ôn hoà"
+    alternatives = ["Đới nóng","Đới lạnh","Không có đặc điểm này"]
+
+    [[Chapter6.questions]]
+    question = "Thực vật chủ yếu của đới ôn hoà là gì?"
+    answer = "Cây lá kim: thông, linh sam, vân sam, tuyết tùng"
+    alternatives = ["Cây thân gỗ ua khô","Cây có cao","Rêu và địa y"]
+
+    [[Chapter6.questions]]
+    question = "Rừng Tai-ga phân bố ở đâu?"
+    answer = "Vùng ôn đới lạnh"
+    alternatives = ["Vùng nhiệt đới","Vùng ôn đới ôn hoà","Vùng biển"]
+
+    [[Chapter6.questions]]
+    question = "Thực vật chủ yếu của đới lạnh là gì?"
+    answer = "Rêu, địa y và các loại cây thân thảo"
+    alternatives = ["Cây lá kim","Cây có cao","Cây thân gỗ ua khô"]
+
+    [[Chapter6.questions]]
+    question = "Các loài động vật thích nghi với khí hậu lạnh sống ở đâu?"
+    answer = "Đới lạnh"
+    alternatives = ["Đới nóng","Đới ôn hoà","Không có địa điểm cụ thể"]
+
+[Chapter7]
+label = "Địa lý - Chương 7: Con người và thiên nhiên"
+
+    [[Chapter7.questions]]
+    question = "Năm 2018, thế giới có bao nhiêu dân?"
+    answer = "7,6 tỉ dân"
+    alternatives = ["7,8 tỉ dân","8,0 tỉ dân","7,4 tỉ dân"]
+
+    [[Chapter7.questions]]
+    question = "Theo tiêu chuẩn nào để thể hiện tình hình phân bố dân cư trên thế giới?"
+    answer = "Mật độ dân số"
+    alternatives = ["Số dân trên mỗi km²","Số dân trên mỗi quốc gia","Số dân trên mỗi châu lục"]
+
+    [[Chapter7.questions]]
+    question = "Mật độ dân số trung bình toàn thế giới là bao nhiêu người/km²?"
+    answer = "56 người/km²"
+    alternatives = ["60 người/km²","50 người/km²","40 người/km²"]
+
+    [[Chapter7.questions]]
+    question = "Thành phố nào có dân số đông nhất trên thế giới năm 2018?"
+    answer = "Tô-ky-ô, Nhật Bản"
+    alternatives = ["Niu Đê-li, Ấn Độ","Thượng Hải, Trung Quốc","Cai-rô, Ai Cập"]
+
+    [[Chapter7.questions]]
+    question = "Thành phố nào là siêu đô thị với quy mô dân số trên 10 triệu người?"
+    answer = "Tô-ky-ô, Nhật Bản"
+    alternatives = ["Thượng Hải, Trung Quốc","Cai-rô, Ai Cập","Đắc-ca, Băng-la-đét"]
+
+    [[Chapter7.questions]]
+    question = "Mật độ dân số của châu Á năm 2018 là bao nhiêu người/km²?"
+    answer = "142 người/km²"
+    alternatives = ["150 người/km²","130 người/km²","160 người/km²"]
+
+    [[Chapter7.questions]]
+    question = "Đâu không phải là một trong những thành phố đông dân nhất thế giới?"
+    answer = "Bắc Kinh, Trung Quốc"
+    alternatives = ["Mum-bai, Ấn Độ","Đắc-ca, Băng-la-đét","Ô-xa-ca, Nhật Bản"]
+
+    [[Chapter7.questions]]
+    question = "Thành phố nào có dân số thấp nhất trong danh sách các thành phố đông dân nhất thế giới?"
+    answer = "Ô-xa-ca, Nhật Bản"
+    alternatives = ["Bắc Kinh, Trung Quốc","Mum-bai, Ấn Độ","Thượng Hải, Trung Quốc"]
+
+    [[Chapter7.questions]]
+    question = "Quốc gia nào có dân số đông thứ nhì trên thế giới năm 2018?"
+    answer = "Ấn Độ"
+    alternatives = ["Trung Quốc","Brazil","Mỹ"]
+
+    [[Chapter7.questions]]
+    question = "Quốc gia nào có dân số ít nhất trong số các quốc gia lớn nhất thế giới?"
+    answer = "Brazil"
+    alternatives = ["Ấn Độ","Trung Quốc","Nga"]
+
+    [[Chapter7.questions]]
+    question = "Tác động của thiên nhiên đến đời sống con người dựa vào những yếu tố nào?"
+    answer = "Địa hình, khí hậu, đất trồng, nguồn nước"
+    alternatives = ["Số dân, văn hóa, nền kinh tế","Chính trị, xã hội, văn hóa","Sức khỏe, giáo dục, năng lực"]
+
+    [[Chapter7.questions]]
+    question = "Tác động của thiên nhiên đến sản xuất nông nghiệp là gì?"
+    answer = "Thiên nhiên cung cấp điều kiện cho cây trồng và vật nuôi phát triển"
+    alternatives = ["Thiên nhiên cung cấp nguồn lực cần thiết cho sản xuất","Thiên nhiên tạo ra điều kiện thuận lợi cho việc sản xuất","Thiên nhiên ổn định môi trường cho sản xuất"]
+
+    [[Chapter7.questions]]
+    question = "Tài nguyên thiên nhiên nào được sử dụng trong sản xuất công nghiệp?"
+    answer = "Khoáng sản"
+    alternatives = ["Nước sạch","Đất trồng","Rừng và cây gỗ"]
+
+    [[Chapter7.questions]]
+    question = "Những hậu quả của việc khai thác tài nguyên thiên nhiên mà con người gây ra là gì?"
+    answer = "Suy thoái tài nguyên, ô nhiễm môi trường"
+    alternatives = ["Sự phát triển bền vững, tăng cường an sinh xã hội","Giảm biến đổi khí hậu, bảo vệ đa dạng sinh học","Giảm ô nhiễm môi trường, tăng sản xuất nông nghiệp"]
+
+    [[Chapter7.questions]]
+    question = "Quốc gia nào áp dụng quy định trồng cây mới khi khai thác một cây?"
+    answer = "Thuỵ Điển"
+    alternatives = ["Anh","Pháp","Đức"]
+
+    [[Chapter7.questions]]
+    question = "Hành động tích cực của con người để bảo vệ môi trường bao gồm những gì?"
+    answer = "Trồng rừng, phủ xanh đồi núi, cải tạo đất"
+    alternatives = ["Khai thác tài nguyên, xây dựng nhà máy","Xả rác thải, khai thác khoáng sản","Phát thải, sử dụng hóa chất độc hại"]
+
+    [[Chapter7.questions]]
+    question = "Đâu không phải là một trong những hành động tích cực của con người để bảo vệ môi trường?"
+    answer = "Khai thác tài nguyên không kiểm soát"
+    alternatives = ["Trồng cây, phủ xanh","Giảm ô nhiễm môi trường","Cải tạo đất, tái chế"]
+
+    [[Chapter7.questions]]
+    question = "Tác động của thiên nhiên tới sản xuất nông nghiệp được mô tả như thế nào?"
+    answer = "Cây trồng và vật nuôi chỉ có thể tồn tại và phát triển bình thường khi có điều kiện tự nhiên phù hợp"
+    alternatives = ["Thiên nhiên cung cấp nguồn lực cần thiết cho sản xuất","Thiên nhiên tạo ra điều kiện thuận lợi cho việc sản xuất","Thiên nhiên ổn định môi trường cho sản xuất"]
+
+    [[Chapter7.questions]]
+    question = "Tác động của thiên nhiên đến đời sống con người chủ yếu phụ thuộc vào những yếu tố nào?"
+    answer = "Địa hình, khí hậu, đất trồng, nguồn nước"
+    alternatives = ["Số dân, văn hóa, nền kinh tế","Chính trị, xã hội, văn hóa","Sức khỏe, giáo dục, năng lực"]
+
+    [[Chapter7.questions]]
+    question = "Hậu quả của việc khai thác tài nguyên thiên nhiên mà con người gây ra là gì?"
+    answer = "Suy thoái tài nguyên, ô nhiễm môi trường"
+    alternatives = ["Sự phát triển bền vững, tăng cường an sinh xã hội","Giảm biến đổi khí hậu, bảo vệ đa dạng sinh học","Giảm ô nhiễm môi trường, tăng sản xuất nông nghiệp"]
+
+    [[Chapter7.questions]]
+    question = "Phát triển bền vững có ý nghĩa như thế nào?"
+    answer = "Đáp ứng các nhu cầu của thế hệ hiện tại mà không làm tổn hại đến nhu cầu của các thế hệ tương lai"
+    alternatives = ["Chỉ đáp ứng các nhu cầu của thế hệ hiện tại","Chỉ đảm bảo nhu cầu của các thế hệ tương lai","Đảm bảo sự phát triển của một số nhóm dân cư"]
+
+    [[Chapter7.questions]]
+    question = "Ý nghĩa của việc bảo vệ tự nhiên là gì?"
+    answer = "Giữ gìn sự đa dạng sinh học, ngăn chặn ô nhiễm và suy thoái môi trường tự nhiên"
+    alternatives = ["Phát triển kinh tế, xã hội","Tiết kiệm tài nguyên","Giữ gìn không gian sống của con người"]
+
+    [[Chapter7.questions]]
+    question = "Ý nghĩa của việc khai thác thông minh các tài nguyên thiên nhiên là gì?"
+    answer = "Sử dụng tài nguyên hợp lí, tiết kiệm nhằm hạn chế sự suy giảm tài nguyên, đảm bảo nguồn tài nguyên cho sinh hoạt và sản xuất của con người"
+    alternatives = ["Tiết kiệm chi phí","Tăng lợi nhuận","Phát triển kinh tế"]
+
+    [[Chapter7.questions]]
+    question = "Khai thác thông minh các tài nguyên thiên nhiên có ý nghĩa như thế nào với đất trồng, động, thực vật?"
+    answer = "Vừa sử dụng vừa khôi phục, tái tạo"
+    alternatives = ["Tiết kiệm sử dụng","Không gây ô nhiễm môi trường","Chăm sóc tốt"]
+
+    [[Chapter7.questions]]
+    question = "Khai thác thông minh tài nguyên thiên nhiên có ý nghĩa như thế nào với năng lượng mặt trời, không khí, nước,...?"
+    answer = "Tránh làm ô nhiễm, giảm chất lượng"
+    alternatives = ["Tăng sản xuất","Giảm chi phí","Phát triển công nghiệp"]
